@@ -89,7 +89,7 @@ sudo apt-get install flameshot gnome-calculator libreoffice
 snap install code --classic
 ~~~
 
-### Terminal Applicationq
+### Terminal Applications
 ~~~ sh
 sudo apt-get install cava htop ranger neofetch cmatrix nano vim hollywood sl
 sudo add-apt-repository ppa:hsheth2/ppa
@@ -141,9 +141,10 @@ Install Cantarell font using this command.
 ~~~ sh
 sudo apt-get install fonts-cantarell
 ~~~
-Then you can select `Cantarell Regular` in both window manager and appearance over the font tab.
+Then you can select `Cantarell Regular` in both `Window Manager` and `Appearance` over the font tab.
 
 ### Panel Preferences
+These are the modules to boot in the `Items Tab` in your `Panel Preferences`:
 - `Whisker Menu`
 - `Separator (invisible)`
 - `Window Buttons`
