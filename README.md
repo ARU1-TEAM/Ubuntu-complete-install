@@ -6,7 +6,7 @@
   * [Boot on usb flash](#boot-on-usb-flash)
   * [Follow Instructions](#follow-instructions)
   * [Install grub-bootloader](#install-grub-bootloader)
-  * [Install primary packages](#install-primary-packages)
+ * [Install primary packages](#install-primary-packages)
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
 
@@ -45,7 +45,7 @@ Update grub
 sudo update-grub
 ~~~
 
-### Install primary packages
+## Install primary packages
 
 Update your packages
 ~~~ sh
