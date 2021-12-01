@@ -6,9 +6,9 @@
   * [Boot on usb flash](#boot-on-usb-flash)
   * [Follow Instructions](#follow-instructions)
   * [Install grub-bootloader](#install-grub-bootloader)
- * [Install packages](#install-packages)
-  *  [Primary packages](#primary-packages)
-  *  [Side applications](#side-applications)
+* [Install packages](#install-packages)
+  * [Primary packages](#primary-packages)
+  * [Side applications](#side-applications)
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
 
