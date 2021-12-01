@@ -39,7 +39,7 @@ This repository is made to help you in the complete installation of Ubuntu. At t
 ### Follow Instructions
  - Select your language and click `Install Ubuntu`.<p align="left"><img src="/screens/ubuntu_installation.png" alt="ubuntu_installation"></p>
  - Select your keyboard layout. <p align="left"><img src="/screens/keyboard_layout.png" alt="keyboard"></p>
- - Select `Minimal installation" and both of the "other options`. <p align="left"><img src="/screens/minimal_installation.png" alt="minimal_installation"></p>
+ - Select `Minimal installation` and both of the `other options`. <p align="left"><img src="/screens/minimal_installation.png" alt="minimal_installation"></p>
  - Select `Erase disk and install Ubuntu` (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
  - Select your regiion
  - Choose your name, computer's name, username and password.
