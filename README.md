@@ -113,12 +113,13 @@ sudo apt autoremove
 - Put the extracted file into the ".themes"
 
 ### Icon Theme
-Install Papirus Icon Theme
+- Install Papirus Icon Theme
 ~~~ sh
 sudo add-apt-repository ppa:papirus/papirus
 sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ~~~
+- Go into appearance settings and select papirus-dark. 
 ### Cursor Theme
 
 ### Fonts
