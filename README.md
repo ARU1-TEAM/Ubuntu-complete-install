@@ -95,8 +95,7 @@ sudo apt-get install xubuntu-desktop
 ~~~
 Select lightdm to get vanilla Xfce
 ### <font color="red">Uninstall Xfce</font>
-
-For uninstall Xfce using this command
+<font color="red">For uninstall Xfce using this command</font>
 ~~~ sh
 sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar gdm3;
 sudo apt autoremove
