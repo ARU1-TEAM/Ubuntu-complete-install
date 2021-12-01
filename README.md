@@ -2,11 +2,11 @@
 
 * [Introduction](#introduction)
 * [Install Ubuntu](#install-ubuntu)
-  * [Create usb flash](#usb-flash)
+  * [Create usb flash](#create-usb-flash)
   * [Boot on usb flash](#boot-on-usb-flash)
   * [Follow Instructions](#follow-instructions)
-  * [Install primary packages](#primary-packages-install)
-* [Install Xfce](#xfce)
+  * [Install primary packages](#install-primary-packages)
+* [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
 
 ## Install Ubuntu
@@ -27,6 +27,7 @@
  - Select "Erase disk and install Ubuntu" (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
  - Select your regiion
  - Choose your name, computer's name, username and password.
+ - Once the installation is finished, restart your computer.
 
 ### Install primary packages
 
