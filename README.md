@@ -17,6 +17,8 @@
   * [Icons](#icons)
 * [Install i3wm](#custom-i3wm)
 
+## Introduction
+This repository is made to help you in the complete installation of Ubuntu.
 ## Install Ubuntu
 
 ### Create usb flash
