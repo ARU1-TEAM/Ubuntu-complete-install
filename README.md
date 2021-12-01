@@ -19,6 +19,8 @@
   * [Cursor Theme](#cursor-theme)
   * [Fonts](#fonts)
   * [Panel Preferences](#panel-preferences)
+* [Customize Terminal](#customize-terminal)
+  * [](#
 * [Install i3wm](#custom-i3wm)
 
 ## Introduction
@@ -148,5 +150,7 @@ Then you can select "Cantarell regular" in both window manager and appearance ov
 
 <p align="left"><img src="/screens/panel_config.png" alt="panel-config"></p>
     
+    
+## Customize Terminal
 
 
