@@ -37,10 +37,10 @@ This repository is made to help you in the complete installation of Ubuntu. At t
  - Select your usb-key in the boot menu.
  - Save and exit.
 ### Follow Instructions
- - Select your language and click "Install Ubuntu".<p align="left"><img src="/screens/ubuntu_installation.png" alt="ubuntu_installation"></p>
+ - Select your language and click `Install Ubuntu`.<p align="left"><img src="/screens/ubuntu_installation.png" alt="ubuntu_installation"></p>
  - Select your keyboard layout. <p align="left"><img src="/screens/keyboard_layout.png" alt="keyboard"></p>
- - Select "Minimal installation" and both of the "other options". <p align="left"><img src="/screens/minimal_installation.png" alt="minimal_installation"></p>
- - Select "Erase disk and install Ubuntu" (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
+ - Select `Minimal installation" and both of the "other options`. <p align="left"><img src="/screens/minimal_installation.png" alt="minimal_installation"></p>
+ - Select `Erase disk and install Ubuntu` (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
  - Select your regiion
  - Choose your name, computer's name, username and password.
  - Once the installation is finished, restart your computer.
@@ -116,8 +116,8 @@ sudo apt autoremove
 
 ### Window Theme
 - First [download](https://www.gnome-look.org/p/1267246/) the nord theme.
-- Create a ".themes" folder at your ~/
-- Put the extracted file into the ".themes"
+- Create a `.themes` folder at your `~/`.
+- Put the extracted file into the `.themes`
 - Select the theme in both window manager and appearance settings like shown in the pictures
 <p align="left"><img src="/screens/window_manager_style.png" alt="window_style"></p>
 <p align="left"><img src="/screens/appearance_style.png " alt="appearance_style"></p>
@@ -134,9 +134,9 @@ Go into appearance settings and select papirus-dark.
 
 ### Cursor Theme
 - First [download](https://www.pling.com/p/1505683/) the Lyrax theme.
-- Create a ".icons" folder at your ~/
-- Put the extracted file into the ".icons"
-- Then go into "Mouse and Touchpad settings" over the "Theme" tab and select your cursor theme like so
+- Create a `.icons` folder at your `~/`.
+- Put the extracted file into the `.icons`.
+- Then go into `Mouse and Touchpad settings` over the `Theme` tab and select your cursor theme like so
 <p align="left"><img src="/screens/cursor.png" alt="cursor"></p>
 
 ### Fonts
@@ -168,10 +168,6 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 ~~~
 
 Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`
-Once done you can return in your terminal and follow the instructions
-If you want to reconfigure juste enter this command
-~~~ sh
-p10k configure
-~~~
+
 ## Install i3wm
 
