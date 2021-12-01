@@ -15,7 +15,7 @@
   * [Uninstall Xfce](#uninstall-xfce)
 * [Customize Xfce](#customize-xfce)
   * [Window Manager](#window-manager)
-  * [Appearence](#appearence)
+  * [Appearance](#appearance)
 * [Install i3wm](#custom-i3wm)
 
 ## Introduction
