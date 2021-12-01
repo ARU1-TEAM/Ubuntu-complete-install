@@ -5,6 +5,7 @@
   * [Create usb flash](#create-usb-flash)
   * [Boot on usb flash](#boot-on-usb-flash)
   * [Follow Instructions](#follow-instructions)
+  * [Install grub-bootloader](#install-grub-bootloader)
   * [Install primary packages](#install-primary-packages)
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
@@ -28,6 +29,9 @@
  - Select your regiion
  - Choose your name, computer's name, username and password.
  - Once the installation is finished, restart your computer.
+
+### Install grub-bootloader
+
 
 ### Install primary packages
 
