@@ -129,7 +129,11 @@ Go into appearance settings and select papirus-dark.
 - Put the extracted file into the ".icons"
 - Then go into "Mouse and Touchpad settings" over the "Theme" tab and select your cursor theme
 ### Fonts
-
+Install Cantarell font using
+~~~ sh
+sudo apt install fonts-cantarell
+~~~
+Then you can select "Cantarell regular" in both window manager and appearance over the font tab
 
     
 
