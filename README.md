@@ -2,4 +2,6 @@
 
 * [Introduction](#introduction)
 * [Ubuntu install](#ubuntu-install)
-* [Put iso on usb flash](#usb-flash)
+  * [Create usb flash](#usb-flash)
+  * [Boot on usb flash](#boot-on-usb-flash)
+  * 
