@@ -68,7 +68,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ~~~
 If you need nvidia, install these
 ~~~ sh
-sudo apt-get install nvidia nvidia-utils nvidia-settings
+sudo apt-get install nvidia-settings
 ~~~
 
 ### Side applications
@@ -94,7 +94,7 @@ sudo apt-get install xubuntu-desktop
 ~~~
 Select lightdm to get vanilla Xfce
 ### Uninstall Xfce
-<font color="red">For uninstall Xfce using this command</font>
+For uninstall Xfce using this command
 ~~~ sh
 sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar gdm3;
 sudo apt autoremove
