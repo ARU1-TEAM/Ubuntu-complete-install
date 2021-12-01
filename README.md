@@ -32,7 +32,7 @@
 
 ### Install grub-bootloader
 
- - Install os-prober and grub2 packages 
+Install os-prober and grub2 packages 
 ~~~ sh
 sudo apt-get install os-prober grub2
 ~~~
