@@ -145,6 +145,7 @@ sudo apt-get install fonts-cantarell
 Then you can select "Cantarell regular" in both window manager and appearance over the font tab
 
 ### Panel Preferences
+
 <p align="left"><img src="/screens/panel_config.png" alt="panel-config"></p>
     
 
