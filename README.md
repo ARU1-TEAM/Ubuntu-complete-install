@@ -1,10 +1,10 @@
 ## Table of contents
 
 * [Introduction](#introduction)
-* [Install Ubuntu](#ubuntu-install)
+* [Install Ubuntu](#install-ubuntu)
   * [Create usb flash](#usb-flash)
   * [Boot on usb flash](#boot-on-usb-flash)
-  * [Follow Instructions](#follow-installation)
+  * [Follow Instructions](#follow-instructions)
   * [Install primary packages](#primary-packages-install)
 * [Install Xfce](#xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
