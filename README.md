@@ -12,6 +12,8 @@
   * [Terminal applications](#terminal-applications)
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
+* [Customize Xfce](#customize-xfce)
+  * [Icons](#icons)
 
 ## Install Ubuntu
 
@@ -86,5 +88,10 @@ sudo apt-get install cava
 ~~~
 
 ### Install Xfce
+install Xfce using this command
+~~~ sh
+sudo apt-get install xubuntu-desktop
+~~~
+Select lightdm to get vanilla Xfce
 
 ### xubuntu-desktop
