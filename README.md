@@ -62,10 +62,6 @@ Install oh-my-zsh
 ~~~
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ~~~
-Install nano, vim, zip, gparted, vlc
-~~~ sh
-sudo apt-get install nano vim zip gparted vlc
-~~~
 If you need nvidia, install these
 ~~~ sh
 sudo apt-get install nvidia nvidia-utils nvidia-settings
