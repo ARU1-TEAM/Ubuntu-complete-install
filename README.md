@@ -93,5 +93,5 @@ install Xfce using this command
 ~~~ sh
 sudo apt-get install xubuntu-desktop
 ~~~
-Select lightdm to get vanilla Xfce
+select lightdm to get vanilla Xfce
 
