@@ -2,14 +2,14 @@
 
 * [Introduction](#introduction)
 * [Install Ubuntu](#install-ubuntu)
-  * [Create usb flash](#create-usb-flash)
-  * [Boot on usb flash](#boot-on-usb-flash)
+  * [Create Usb Flash](#create-usb-flash)
+  * [Boot On Usb Flash](#boot-on-usb-flash)
   * [Follow Instructions](#follow-instructions)
-  * [Install grub-bootloader](#install-grub-bootloader)
-* [Install packages](#install-packages)
-  * [Primary packages](#primary-packages)
-  * [Side applications](#side-applications)
-  * [Terminal applications](#terminal-applications)
+  * [Install Grub-Bootloader](#install-grub-bootloader)
+* [Install Packages](#install-packages)
+  * [Primary Packages](#primary-packages)
+  * [Side Applications](#side-applications)
+  * [Terminal Applications](#terminal-applications)
 * [Install Xfce](#install-xfce)
   * [Xubuntu-desktop](#xubuntu-desktop)
   * [Uninstall Xfce](#uninstall-xfce)
@@ -21,6 +21,7 @@
   * [Panel Preferences](#panel-preferences)
 * [Customize Terminal](#customize-terminal)
   * [PowerLevel10k](#powerlevel10k)
+  * [Customize Terminal Theme](#Customize Terminal Theme)
 * [Install i3wm](#custom-i3wm)
 
 ## Introduction
@@ -171,10 +172,10 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 ~~~
 
 Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`
-### Set a custom theme for xfce4 terminal
-Put a file named `example.theme` in `~/.local/share/xfce4/terminal/colorschemes` folder.
-Note that some folder might not be existing, so you might have to create them.
-Then you will have to select your theme in the `appearance` tab of your xfce terminal
+### Customize Terminal Theme
+- Put a file named `example.theme` in `~/.local/share/xfce4/terminal/colorschemes` folder.
+- Note that some folder might not be existing, so you might have to create them.
+- Then you will have to select your theme in the `appearance` tab of your xfce terminal
 
 ## Install i3wm
 
