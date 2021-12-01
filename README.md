@@ -12,16 +12,16 @@
 
 ### Install Ubuntu
 
-#### Create usb flash
+### Create usb flash
 
 Download ubuntu iso file on https://ubuntu.com/#download and select the latest version 
 
-#### Boot on usb flash
+### Boot on usb flash
 
-#### Follow Installation
+### Follow Installation
 
-#### Install primary packages
+### Install primary packages
 
 ### Install Xfce
 
-#### xubuntu-desktop
+### xubuntu-desktop
