@@ -129,6 +129,7 @@ Go into appearance settings and select papirus-dark.
 - Put the extracted file into the ".icons"
 - Then go into "Mouse and Touchpad settings" over the "Theme" tab and select your cursor theme like so
 <p align="center"><img src="/screens/cursor.png" alt="cursor"></p>
+
 ### Fonts
 Install Cantarell font using 
 ~~~ sh
