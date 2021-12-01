@@ -13,3 +13,9 @@
 ### Install Ubuntu
 
 #### Create usb flash
+
+#### Boot on usb flash
+
+#### Follow Installation
+
+#### Install primary packages
