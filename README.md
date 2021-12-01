@@ -8,3 +8,4 @@
   * [Install primary packages](#primary-packages-install)
 * [Install Xfce](#xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
+## Getting started
