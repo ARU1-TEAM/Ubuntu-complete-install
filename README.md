@@ -30,7 +30,7 @@
 ### Follow Instructions
  - Select your language and click "Install Ubuntu".
  - Select your keyboard layout.
- - Select "Minimal installation" and both of the "other options".<p align="center"><img src="/screens/minimal_installations.png" alt="minimal_installations"></p>
+ - Select "Minimal installation" and both of the "other options". <p align="center"><img src="/screens/minimal_installations.png" alt="minimal_installations"></p>
  - Select "Erase disk and install Ubuntu" (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
  - Select your regiion
  - Choose your name, computer's name, username and password.
@@ -60,7 +60,7 @@ sudo apt-get update
 ~~~
 Install all the needed packages
 ~~~ sh
-sudo apt-get install curl git zsh wget nano vim zip gparted build-essential locate snap xarchiver
+sudo apt-get install curl git zsh wget nano vim zip gparted build-essential locate snap xarchiver gdebi
 ~~~
 Install oh-my-zsh
 ~~~
