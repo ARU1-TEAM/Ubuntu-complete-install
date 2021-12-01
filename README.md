@@ -109,6 +109,7 @@ sudo apt autoremove
 ### Window Manager settings
 - First we will [download](https://www.gnome-look.org/p/1267246/) the nord theme.
 
+### Appearance settings
 
-
+### Pannel preferences
 
