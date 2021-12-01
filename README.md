@@ -95,3 +95,4 @@ sudo apt-get install xubuntu-desktop
 ~~~
 Select lightdm to get vanilla Xfce
 
+## Customize Xfce
