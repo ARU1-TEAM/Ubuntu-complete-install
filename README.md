@@ -34,21 +34,21 @@
 
 Install os-prober and grub2 packages 
 ~~~ sh
-sudo apt-get install os-prober grub2
+$ sudo apt-get install os-prober grub2
 ~~~
 Start os-prober
 ~~~ sh
-sudo os-prober
+$ sudo os-prober
 ~~~
 Update grub
 ~~~ sh
-sudo update-grub
+$ sudo update-grub
 ~~~
 
 ### Install primary packages
 
  ~~~ sh
- sudo apt-get update
+ $ sudo apt-get update
  ~~~
 
 ### Install Xfce
