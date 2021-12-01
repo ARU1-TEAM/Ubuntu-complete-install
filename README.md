@@ -1,4 +1,4 @@
-## Table of contents
+# Table of Contents
 
 * [Introduction](#introduction)
 * [Install Ubuntu](#install-ubuntu)
