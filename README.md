@@ -69,7 +69,6 @@ sudo apt-get install nvidia nvidia-utils nvidia-settings
 ~~~
 
 ### Side applications
-
 Install the user graphical applications 
 ~~~ sh
 snap install spotify teams netflix-web vlc
