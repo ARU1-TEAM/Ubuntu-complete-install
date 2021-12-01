@@ -34,7 +34,7 @@ This repository is made to help you in the complete installation of Ubuntu. At t
  - Download [balenaEtcher](https://www.balena.io/etcher/).
  - Load balena etcher, put iso file and select your usb key.
 ### Boot On USB Flash
- - Reboot your computer and press DEL key to get into your BIOS/UEFI.
+ - Reboot your computer and press `DEL` key to get into your BIOS/UEFI.
  - Select your usb-key in the boot menu.
  - Save and exit.
 ### Follow Instructions
