@@ -110,7 +110,7 @@ sudo apt autoremove
 ### Window Theme
 - First [download](https://www.gnome-look.org/p/1267246/) the nord theme.
 - Create a ".themes" folder at your ~/
-- Put the extracted file into the ".themes" ~~~
+- Put the extracted file into the ".themes"
 
 ### Icon Theme
 Install Papirus Icon Theme
