@@ -36,6 +36,14 @@ Install os-prober and grub2 packages
 ~~~ sh
 sudo apt-get install os-prober grub2
 ~~~
+Start os-prober
+~~~ sh
+sudo os-prober
+~~~
+Update grub
+~~~ sh
+sudo update-grub
+~~~
 
 ### Install primary packages
 
