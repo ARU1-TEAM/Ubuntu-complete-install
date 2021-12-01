@@ -2,16 +2,16 @@
 
 * [Introduction](#introduction)
 * [Install Ubuntu](#install-ubuntu)
-  * [Create Usb Flash](#create-usb-flash)
-  * [Boot On Usb Flash](#boot-on-usb-flash)
+  * [Create USB Flash](#create-usb-flash)
+  * [Boot On USB Flash](#boot-on-usb-flash)
   * [Follow Instructions](#follow-instructions)
-  * [Install Grub-Bootloader](#install-grub-bootloader)
+  * [Install Grub](#install-grub)
 * [Install Packages](#install-packages)
   * [Primary Packages](#primary-packages)
   * [Side Applications](#side-applications)
   * [Terminal Applications](#terminal-applications)
 * [Install Xfce](#install-xfce)
-  * [Xubuntu-desktop](#xubuntu-desktop)
+  * [Xubuntu-Desktop](#xubuntu-desktop)
   * [Uninstall Xfce](#uninstall-xfce)
 * [Customize Xfce](#customize-xfce)
   * [Window Theme](#window-theme)
@@ -21,19 +21,19 @@
   * [Panel Preferences](#panel-preferences)
 * [Customize Terminal](#customize-terminal)
   * [PowerLevel10k](#powerlevel10k)
-  * [Customize Terminal Theme](#Customize Terminal Theme)
-* [Install i3wm](#custom-i3wm)
+  * [Customize Terminal Theme](#customize-terminal-theme)
+* [Install I3wm](#custom-i3wm)
 
 ## Introduction
 This repository is made to help you in the complete installation of Ubuntu. At the end of this repo you will get a nice xfce4 fully nord customized on your ubuntu followed by I3WM and all it's customization as well
 ## Install Ubuntu
 <p align="center"><img src="/screens/ubuntu.png" alt="ubuntu"></p>
 
-### Create usb flash
+### Create USB Flash
  - Download [Ubuntu iso file](https://ubuntu.com/#download) and select the latest version.
  - Download [balenaEtcher](https://www.balena.io/etcher/).
  - Load balena etcher, put iso file and select your usb key.
-### Boot on usb flash
+### Boot On USB Flash
  - Reboot your computer and press DEL key to get into your BIOS/UEFI.
  - Select your usb-key in the boot menu.
  - Save and exit.
@@ -46,7 +46,7 @@ This repository is made to help you in the complete installation of Ubuntu. At t
  - Choose your name, computer's name, username and password.
  - Once the installation is finished, restart your computer.
 
-### Install grub-bootloader
+### Install Grub
 
 Install os-prober and grub2 packages 
 ~~~ sh
@@ -61,9 +61,9 @@ Update grub
 sudo update-grub
 ~~~
 
-## Install packages
+## Install Packages
 
-### Primary packages
+### Primary Packages
 Update your packages
 ~~~ sh
 sudo apt-get update
@@ -81,7 +81,7 @@ If you need nvidia, install these
 sudo apt-get install nvidia-settings
 ~~~
 
-### Side applications
+### Side Applications
 Install the user graphical applications 
 ~~~ sh
 snap install spotify teams netflix-web vlc
@@ -89,7 +89,7 @@ sudo apt-get install flameshot gnome-calculator libreoffice
 snap install code --classic
 ~~~
 
-### Terminal applications
+### Terminal Applicationq
 ~~~ sh
 sudo apt-get install cava htop ranger neofetch cmatrix nano vim hollywood sl
 sudo add-apt-repository ppa:hsheth2/ppa
@@ -97,7 +97,7 @@ sudo apt-get install cava
 ~~~
 
 ### Install Xfce
-### xubuntu-desktop
+### Xubuntu-Desktop
 Install Xfce using this command
 ~~~ sh
 sudo apt-get install xubuntu-desktop
@@ -177,5 +177,5 @@ Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`
 - Note that some folder might not be existing, so you might have to create them.
 - Then you will have to select your theme in the `appearance` tab of your xfce terminal
 
-## Install i3wm
+## Install I3wm
 
