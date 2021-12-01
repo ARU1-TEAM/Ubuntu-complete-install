@@ -47,6 +47,7 @@ sudo update-grub
 
 ### Install primary packages
 
+Update your packages
  ~~~ sh
  sudo apt-get update
  ~~~
