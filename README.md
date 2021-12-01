@@ -27,14 +27,14 @@ This repository is made to help you in the complete installation of Ubuntu. At t
 ### Create usb flash
  - Download [Ubuntu iso file](https://ubuntu.com/#download) and select the latest version.
  - Download [balenaEtcher](https://www.balena.io/etcher/).
- - Load balena etcher, put iso file and select your usb key.<p align="center"><img src="/screens/balena.png" alt="balena"></p>
+ - Load balena etcher, put iso file and select your usb key.<p align="left"><img src="/screens/balena.png" alt="balena"></p>
 ### Boot on usb flash
  - Reboot your computer and press DEL key to get into your BIOS/UEFI.
  - Select your usb-key in the boot menu.
  - Save and exit.
 ### Follow Instructions
- - Select your language and click "Install Ubuntu".<p align="center"><img src="/screens/ubuntu_installation.png" alt="ubuntu_installation"></p>
- - Select your keyboard layout. <p align="center"><img src="/screens/keyboard_layout.png" alt="keyboard"></p>
+ - Select your language and click "Install Ubuntu".<p align="left"><img src="/screens/ubuntu_installation.png" alt="ubuntu_installation"></p>
+ - Select your keyboard layout. <p align="left"><img src="/screens/keyboard_layout.png" alt="keyboard"></p>
  - Select "Minimal installation" and both of the "other options". <p align="center"><img src="/screens/minimal_installation.png" alt="minimal_installation"></p>
  - Select "Erase disk and install Ubuntu" (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
  - Select your regiion
