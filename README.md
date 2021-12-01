@@ -168,6 +168,10 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 ~~~
 
 Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`
-
+Once done you can return in your terminal and follow the instructions
+If you want to reconfigure juste enter this command
+~~~ sh
+p10k configure
+~~~
 ## Install i3wm
 
