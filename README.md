@@ -59,6 +59,11 @@ Install oh-my-zsh
 ~~~
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ~~~
+Install nano, vim, zip, gparted, vlc
+~~~ sh
+sudo apt-get install nano vim zip gparted vlc
+~~~
+
 ### Install Xfce
 
 ### xubuntu-desktop
