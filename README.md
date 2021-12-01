@@ -87,7 +87,7 @@ snap install code --classic
 ### Terminal applications
 ~~~ sh
 sudo apt-get install cava htop ranger neofetch cmatrix nano vim hollywood sl
-sudo add-apt-repository ppa:hsheth2/ppa;
+sudo add-apt-repository ppa:hsheth2/ppa
 sudo apt-get install cava
 ~~~
 
