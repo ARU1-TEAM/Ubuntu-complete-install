@@ -130,7 +130,7 @@ Go into appearance settings and select papirus-dark.
 - Then go into "Mouse and Touchpad settings" over the "Theme" tab and select your cursor theme like so
 <p align="center"><img src="/screens/cursor.png" alt="cursor"></p>
 ### Fonts
-Install Cantarell font using
+Install Cantarell font using 
 ~~~ sh
 sudo apt-get install fonts-cantarell
 ~~~
