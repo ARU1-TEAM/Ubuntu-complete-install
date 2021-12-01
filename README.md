@@ -171,6 +171,9 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 ~~~
 
 Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`
+### Set a custom theme for xfce4 terminal
+Put a file named filename.theme in `~/.local/share/xfce4/terminal/colorschemes` folder.
+Note that some folder might not be existing, so you might have to create them.
 
 ## Install i3wm
 
