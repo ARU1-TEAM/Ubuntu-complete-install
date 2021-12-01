@@ -69,9 +69,10 @@ sudo apt-get install nvidia nvidia-utils nvidia-settings
 
 ### Side applications
 Install Visual Studio Code
-~~~ sh
+~~~ zsh
 snap install spotify code --classic
 ~~~
+
 
 ### Install Xfce
 
