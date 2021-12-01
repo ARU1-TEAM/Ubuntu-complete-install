@@ -24,7 +24,7 @@ This repository is made to help you in the complete installation of Ubuntu.
 ## Install Ubuntu
 
 ### Create usb flash
- - Download [Ubuntu iso file](https://ubuntu.com/#download){:target="_blank"} and select the latest version.
+ - Download [Ubuntu iso file](https://ubuntu.com/#download){:target="_blank" rel="noopener"} and select the latest version.
  - Download [balenaEtcher](https://www.balena.io/etcher/){:target="_blank"}.
  - Load balena etcher, put iso file and select your usb key.<p align="center"><img src="/screens/balena.png" alt="balena"></p>
 ### Boot on usb flash
