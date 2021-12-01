@@ -8,10 +8,11 @@
   * [Install primary packages](#primary-packages-install)
 * [Install Xfce](#xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
-## Getting started
 
 ## Install Ubuntu
+
 ### Create usb flash
+
 Download ubuntu iso file on https://ubuntu.com/#download and select the latest version 
 
 ### Boot on usb flash
