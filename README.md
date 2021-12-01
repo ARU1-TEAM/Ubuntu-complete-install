@@ -7,6 +7,7 @@
   * [Follow Instructions](#follow-instructions)
   * [Install grub-bootloader](#install-grub-bootloader)
  * [Install primary packages](#install-primary-packages)
+  * 
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
 
@@ -63,7 +64,7 @@ Install nano, vim, zip, gparted, vlc
 ~~~ sh
 sudo apt-get install nano vim zip gparted vlc
 ~~~
-If you need nvidia, install this
+If you need nvidia, install these
 ~~~ sh
 sudo apt-get install nvidia nvidia-utils nvidia-settings
 ~~~
