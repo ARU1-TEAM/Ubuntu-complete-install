@@ -21,7 +21,7 @@
  - Select your usb-key in the boot menu.
  - Save and exit.
 ### Follow Instructions
- - Select your language and click install Install Ubuntu.
+ - Select your language and click "Install Ubuntu".
  - Select your keyboard layout.
  - Select Minimal installation and select both of the "other options".
  - Select Erase disk and install Ubuntu (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
