@@ -9,6 +9,7 @@
 * [Install packages](#install-packages)
   * [Primary packages](#primary-packages)
   * [Side applications](#side-applications)
+  * [Terminal applications](#terminal-applications)
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
 
@@ -82,6 +83,10 @@ Install Visual Studio Code
 snap install spotify code --classic
 ~~~
 
+### Terminal applications
+~~~ sh
+sudo apt-get install cava htop ranger neofetch cmatrix nano vim hollywood sl
+~~~
 
 ### Install Xfce
 
