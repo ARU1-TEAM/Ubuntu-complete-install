@@ -9,4 +9,7 @@
 * [Install Xfce](#xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
 ## Getting started
+
 ### Install Ubuntu
+
+#### Create usb flash
