@@ -41,7 +41,7 @@ This repository is made to help you in the complete installation of Ubuntu. At t
  - Select your keyboard layout. 
  - Select `Minimal installation` and both of the `other options`. 
  - Select `Erase disk and install Ubuntu` (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
- - Select your regiion
+ - Select your region
  - Choose your name, computer's name, username and password.
  - Once the installation is finished, restart your computer.
 
@@ -106,8 +106,8 @@ Then run this command to enable lightdm, then you might reboot as well
 ~~~ sh
 sudo systemctl enable lightdm
 ~~~
-### Uninstall Xfce
-For uninstall Xfce using this command
+### Uninstall Xfce.
+For uninstall Xfce using this command.
 ~~~ sh
 sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar gdm3
 sudo apt autoremove
@@ -121,7 +121,7 @@ sudo apt autoremove
 - Select the theme in both `Window Manager` and `Appearance` settings like shown in the pictures.
 
 ### Icon Theme
-Install Papirus Icon Theme
+Install Papirus Icon Theme.
 ~~~ sh
 sudo add-apt-repository ppa:papirus/papirus
 sudo apt-get update
@@ -133,14 +133,14 @@ Go into appearance settings and select papirus-dark.
 - First [download](https://www.pling.com/p/1505683/) the Lyrax theme.
 - Create a `.icons` folder at your `~/`.
 - Put the extracted file into the `.icons`.
-- Then go into `Mouse and Touchpad settings` over the `Theme` tab and select your cursor theme like so
+- Then go into `Mouse and Touchpad settings` over the `Theme` tab and select your cursor theme. 
 
 ### Fonts
-Install Cantarell font using 
+Install Cantarell font using this command.
 ~~~ sh
 sudo apt-get install fonts-cantarell
 ~~~
-Then you can select `Cantarell Regular` in both window manager and appearance over the font tab
+Then you can select `Cantarell Regular` in both window manager and appearance over the font tab.
 
 ### Panel Preferences
 - `Whisker Menu`
