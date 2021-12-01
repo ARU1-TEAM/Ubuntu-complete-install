@@ -14,8 +14,7 @@
   * [Xubuntu-desktop](#xubuntu-desktop)
   * [Uninstall Xfce](#uninstall-xfce)
 * [Customize Xfce](#customize-xfce)
-  * [Window Manager](#window-manager)
-  * [Appearance](#appearance)
+  * [Theme](#theme)
 * [Install i3wm](#custom-i3wm)
 
 ## Introduction
@@ -105,9 +104,7 @@ sudo apt autoremove
 ~~~
 ## Customize Xfce
 
-### Window Manager
-
-### Appearance 
+### Theme
 
 
 
