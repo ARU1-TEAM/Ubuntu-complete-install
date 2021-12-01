@@ -155,4 +155,5 @@ Then you can select "Cantarell regular" in both window manager and appearance ov
 
 ### PowerLevel10k
 
+## Install i3wm
 
