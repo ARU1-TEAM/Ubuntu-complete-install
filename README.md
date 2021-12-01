@@ -131,7 +131,7 @@ Go into appearance settings and select papirus-dark.
 ### Fonts
 Install Cantarell font using
 ~~~ sh
-sudo apt install fonts-cantarell
+sudo apt-get install fonts-cantarell
 ~~~
 Then you can select "Cantarell regular" in both window manager and appearance over the font tab
 
