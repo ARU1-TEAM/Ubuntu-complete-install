@@ -98,7 +98,7 @@ Install Xfce using this command
 sudo apt-get install xubuntu-desktop
 ~~~
 Select lightdm to get vanilla Xfce <p align="left"><img src="/screens/configure_xfce_lightdm.png" alt="lightdm"></p>
-Then run this command before rebooting 
+Then run this command to enable lightdm, then you might reboot as well 
 ~~~ sh
 sudo systemctl enable lightdm
 ~~~
