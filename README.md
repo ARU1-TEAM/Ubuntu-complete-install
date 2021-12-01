@@ -10,7 +10,7 @@
   * [xubuntu-desktop](#xubuntu-desktop)
 ## Getting started
 
-### Install Ubuntu
+## Install Ubuntu
 
 ### Create usb flash
 
