@@ -144,15 +144,15 @@ Then you can select "Cantarell regular" in both window manager and appearance ov
 
 ### Panel Preferences
 - `Whisker Menu`
-- `Separator`
+- `Separator (invisible)`
 - `Window Buttons`
-- `Separator` (expand)
+- `Separator (expend invisible)` 
 - `Workspace Switcher`   
 - `Notification Area`
 - `PulseAudio Plugin`
-- `Separator`
+- `Separator (invisible)`
 - `Clock`
-- `Separator`
+- `Separator (invisible)`
     
 ## Customize Terminal
 
