@@ -106,7 +106,7 @@ sudo apt autoremove
 ~~~
 ## Customize Xfce
 
-### Theme
+### Window Manager settings
 
 
 
