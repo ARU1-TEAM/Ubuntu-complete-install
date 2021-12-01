@@ -197,8 +197,10 @@ cp example ~/usr/bin/
 - And finaly you can run the script like any other script that is in ubuntu
 
 ### Update
+This script will update every package that you have in your OS.
 
 ### Weather
+This script will ask you your location and show you the weather forecasts
 
 ### Change Mac Adress
-
+This script will change your mac adress. Very userfull if you want to bypass the router blocking system.
