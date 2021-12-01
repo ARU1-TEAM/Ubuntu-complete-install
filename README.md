@@ -23,6 +23,9 @@
   * [PowerLevel10k](#powerlevel10k)
   * [Customize Terminal Theme](#customize-terminal-theme)
 * [Install I3wm](#custom-i3wm)
+* [Install Bash Scripts](#install-bash-script)
+  * [Weather](#weather)
+  * [Change Mac Adress](#change-mac-adress)
 
 ## Introduction
 This repository is made to help you in the complete installation of Ubuntu. At the end of this repo you will get a nice xfce4 fully nord customized on your ubuntu followed by I3wm and all it's customization as well. Some pictures are avaible in the [screens folder](https://github.com/ARU1-TEAM/Ubuntu-install/tree/main/screens) of the repository.
@@ -179,4 +182,10 @@ Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`
 - Then you will have to select your theme in the `Appearance` tab of your xfce terminal
 
 ## Install I3wm
+
+## Install Bash Scripts
+
+### Weather
+
+### Change Mac Adress
 
