@@ -32,7 +32,7 @@
 ### Install primary packages
 
  ~~~
- sh sudo apt update
+ sudo apt update
  ~~~
 
 ### Install Xfce
