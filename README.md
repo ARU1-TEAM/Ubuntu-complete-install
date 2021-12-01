@@ -22,10 +22,7 @@
 ### Create usb flash
  - Download [Ubuntu iso file](https://ubuntu.com/#download) and select the latest version.
  - Download [balenaEtcher](https://www.balena.io/etcher/).
- - Load balena etcher, put iso file and select your usb key.
- <p align="center">
-  <img src="/screens/balena.png" alt="balena">
-</p>
+ - Load balena etcher, put iso file and select your usb key.<p align="center"><img src="/screens/balena.png" alt="balena"></p>
 ### Boot on usb flash
  - Reboot your computer and press DEL key to get into your BIOS/UEFI.
  - Select your usb-key in the boot menu.
