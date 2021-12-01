@@ -162,7 +162,7 @@ Install these PowerLevel10k fonts
 
 <p align="left"><img src="/screens/terminal_appearance.png" alt="terminal_appearance"></p>
 
-Clone the repository
+Clone this repository
 ~~~ sh
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ~~~
