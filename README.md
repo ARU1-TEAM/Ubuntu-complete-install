@@ -63,6 +63,10 @@ Install nano, vim, zip, gparted, vlc
 ~~~ sh
 sudo apt-get install nano vim zip gparted vlc
 ~~~
+If you need nvidia, install :
+~~~
+
+~~~
 
 ### Install Xfce
 
