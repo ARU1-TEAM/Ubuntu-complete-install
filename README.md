@@ -79,14 +79,14 @@ sudo apt-get install nvidia-settings
 ### Side applications
 Install the user graphical applications 
 ~~~ sh
-snap install spotify teams netflix-web vlc;
-sudo apt-get install flameshot gnome-calculator libreoffice;
+snap install spotify teams netflix-web vlc
+sudo apt-get install flameshot gnome-calculator libreoffice
 snap install code --classic
 ~~~
 
 ### Terminal applications
 ~~~ sh
-sudo apt-get install cava htop ranger neofetch cmatrix nano vim hollywood sl;
+sudo apt-get install cava htop ranger neofetch cmatrix nano vim hollywood sl
 sudo add-apt-repository ppa:hsheth2/ppa;
 sudo apt-get install cava
 ~~~
@@ -95,14 +95,14 @@ sudo apt-get install cava
 ### xubuntu-desktop
 Install Xfce using this command
 ~~~ sh
-sudo apt-get install xubuntu-desktop;
+sudo apt-get install xubuntu-desktop
 sudo systemctl enable lightdm
 ~~~
 Select lightdm to get vanilla Xfce <p align="left"><img src="/screens/configure_xfce_lightdm.png" alt="lightdm"></p>
 ### Uninstall Xfce
 For uninstall Xfce using this command
 ~~~ sh
-sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar gdm3;
+sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar gdm3
 sudo apt autoremove
 ~~~
 ## Customize Xfce
@@ -113,7 +113,12 @@ sudo apt autoremove
 - Put the extracted file into the ".themes" ~~~
 
 ### Icon Theme
-
+Install Papirus Icon Theme
+~~~ sh
+sudo add-apt-repository ppa:papirus/papirus
+sudo apt-get update
+sudo apt-get install papirus-icon-theme
+~~~
 ### Cursor Theme
 
 ### Fonts
