@@ -93,7 +93,7 @@ Install Xfce using this command
 sudo apt-get install xubuntu-desktop;
 sudo systemctl enable lightdm
 ~~~
-Select lightdm to get vanilla Xfce <p align="center"><img src="/screens/configure_xfce_lightdm.png" alt="lightdm"></p>
+Select lightdm to get vanilla Xfce <p align="left"><img src="/screens/configure_xfce_lightdm.png" alt="lightdm"></p>
 ### Uninstall Xfce
 For uninstall Xfce using this command
 ~~~ sh
