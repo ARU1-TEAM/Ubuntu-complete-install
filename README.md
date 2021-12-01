@@ -89,9 +89,9 @@ sudo apt-get install cava
 
 ### Install Xfce
 ### xubuntu-desktop
-install Xfce using this command
+Install Xfce using this command
 ~~~ sh
 sudo apt-get install xubuntu-desktop
 ~~~
-select lightdm to get vanilla Xfce
+Select lightdm to get vanilla Xfce
 
