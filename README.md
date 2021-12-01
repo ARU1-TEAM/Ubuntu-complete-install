@@ -19,3 +19,7 @@
 #### Follow Installation
 
 #### Install primary packages
+
+### Install Xfce
+
+#### xubuntu-desktop
