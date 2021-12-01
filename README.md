@@ -29,7 +29,7 @@
  - Save and exit.
 ### Follow Instructions
  - Select your language and click "Install Ubuntu".
- - Select your keyboard layout.
+ - Select your keyboard layout. <p align="center"><img src="/screens/keyboard_layout" alt="keyboard"></p>
  - Select "Minimal installation" and both of the "other options". <p align="center"><img src="/screens/minimal_installation.png" alt="minimal_installation"></p>
  - Select "Erase disk and install Ubuntu" (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
  - Select your regiion
