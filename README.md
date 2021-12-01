@@ -31,6 +31,10 @@
 
 ### Install primary packages
 
+ ~~~
+ sh sudo apt update
+ ~~~
+
 ### Install Xfce
 
 ### xubuntu-desktop
