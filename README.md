@@ -12,7 +12,6 @@
 
 ## Install Ubuntu
 ### Create usb flash
-
 Download ubuntu iso file on https://ubuntu.com/#download and select the latest version 
 
 ### Boot on usb flash
