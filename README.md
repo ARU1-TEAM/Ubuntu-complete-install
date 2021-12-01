@@ -13,6 +13,7 @@
 ### Install Ubuntu
 
 #### Create usb flash
+Download ubuntu iso file on https://ubuntu.com/#download
 
 #### Boot on usb flash
 
