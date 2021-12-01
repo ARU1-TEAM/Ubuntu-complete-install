@@ -20,7 +20,7 @@
   * [Fonts](#fonts)
   * [Panel Preferences](#panel-preferences)
 * [Customize Terminal](#customize-terminal)
-
+  * [PowerLevel10k](#powerlevel10k)
 * [Install i3wm](#custom-i3wm)
 
 ## Introduction
@@ -152,5 +152,7 @@ Then you can select "Cantarell regular" in both window manager and appearance ov
     
     
 ## Customize Terminal
+
+### PowerLevel10k
 
 
