@@ -23,7 +23,7 @@
 ## Introduction
 This repository is made to help you in the complete installation of Ubuntu. At the end of this repo you will get a nice xfce4 fully nord customized on your ubuntu followed by I3WM and all it's customization as well
 ## Install Ubuntu
-<p align="center"><img src="/screens/ubuntu.png" alt="ubuntu"></p>
+<p align="left"><img src="/screens/ubuntu.png" alt="ubuntu"></p>
 
 ### Create usb flash
  - Download [Ubuntu iso file](https://ubuntu.com/#download) and select the latest version.
