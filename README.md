@@ -121,13 +121,11 @@ sudo apt-get install papirus-icon-theme
 ~~~
 Go into appearance settings and select papirus-dark. 
 ### Cursor Theme
-- First [download](https://www.gnome-look.org/p/1505683/) the nord theme.
-- Create a ".cursor" folder at your ~/
-- Put the extracted file into the ".cursor"
-### Fonts
 - First [download](https://www.pling.com/p/1505683/) the Lyrax theme.
 - Create a ".icons" folder at your ~/
 - Put the extracted file into the ".icons"
+### Fonts
+
 
     
 
