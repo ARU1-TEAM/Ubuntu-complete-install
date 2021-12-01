@@ -112,7 +112,9 @@ sudo apt autoremove
 - Create a ".themes" folder at your ~/
 - Put the extracted file into the ".themes" ~~~
 
-### Appearance settings
+### Icon Theme
 
-### Pannel preferences
+### Cursor Theme
+
+### Fonts
 
