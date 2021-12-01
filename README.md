@@ -25,7 +25,7 @@
 * [Install I3wm](#custom-i3wm)
 
 ## Introduction
-This repository is made to help you in the complete installation of Ubuntu. At the end of this repo you will get a nice xfce4 fully nord customized on your ubuntu followed by I3WM and all it's customization as well
+This repository is made to help you in the complete installation of Ubuntu. At the end of this repo you will get a nice xfce4 fully nord customized on your ubuntu followed by I3WM and all it's customization as well. Some pictures are avaible in the `screens folder` of the repository.
 ## Install Ubuntu
 <p align="center"><img src="/screens/ubuntu.png" alt="ubuntu"></p>
 
