@@ -20,7 +20,7 @@
   * [Fonts](#fonts)
   * [Panel Preferences](#panel-preferences)
 * [Customize Terminal](#customize-terminal)
-  * 
+
 * [Install i3wm](#custom-i3wm)
 
 ## Introduction
