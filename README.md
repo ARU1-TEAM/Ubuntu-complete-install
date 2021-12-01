@@ -7,7 +7,6 @@
   * [Follow Instructions](#follow-instructions)
   * [Install grub-bootloader](#install-grub-bootloader)
   * [Install primary packages](#install-primary-packages)
-     * [Install discord](#install-primary-packages)
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
 
@@ -49,10 +48,17 @@ sudo update-grub
 ### Install primary packages
 
 Update your packages
- ~~~ sh
- sudo apt-get update
- ~~~
-
+~~~ sh
+sudo apt-get update
+~~~
+Install curl, git and zsh
+~~~ sh
+sudo apt-get curl git zsh 
+~~~
+Install oh-my-zsh
+~~~
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+~~~
 ### Install Xfce
 
 ### xubuntu-desktop
