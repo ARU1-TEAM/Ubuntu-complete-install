@@ -7,8 +7,8 @@
   * [Follow Instructions](#follow-instructions)
   * [Install grub-bootloader](#install-grub-bootloader)
  * [Install packages](#install-packages)
-  * [Create usb flash](#create-usb-flash)
-  * [Side applications](#side-applications)
+  *  [Primary packages](#primary-packages)
+  *  [Side applications](#side-applications)
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
 
