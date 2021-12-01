@@ -14,9 +14,10 @@
   * [Xubuntu-desktop](#xubuntu-desktop)
   * [Uninstall Xfce](#uninstall-xfce)
 * [Customize Xfce](#customize-xfce)
-  * [Window Manager settings](#window-manager-settings)
-  * [Appearance settings](#appearance-settings)
-  * [Pannel preferences](#pannel-preferences)
+  * [Window Theme](#window-theme)
+  * [Icon Theme](#icon-theme)
+  * [Cursor Theme](#cursor-theme)
+  * [Fonts](#fonts)
 * [Install i3wm](#custom-i3wm)
 
 ## Introduction
@@ -106,10 +107,10 @@ sudo apt autoremove
 ~~~
 ## Customize Xfce
 
-### Window Manager settings
+### Window Theme
 - First [download](https://www.gnome-look.org/p/1267246/) the nord theme.
 - Create a ".themes" folder at your ~/
-- Put the extracted file into the ".themes" 
+- Put the extracted file into the ".themes" ~~~
 
 ### Appearance settings
 
