@@ -24,8 +24,8 @@ This repository is made to help you in the complete installation of Ubuntu.
 ## Install Ubuntu
 
 ### Create usb flash
- - Download [Ubuntu iso file](https://ubuntu.com/#download){:target="_blank" rel="noopener"} and select the latest version.
- - Download [balenaEtcher](https://www.balena.io/etcher/){:target="_blank"}.
+ - Download [Ubuntu iso file](https://ubuntu.com/#download) and select the latest version.
+ - Download [balenaEtcher](https://www.balena.io/etcher/).
  - Load balena etcher, put iso file and select your usb key.<p align="center"><img src="/screens/balena.png" alt="balena"></p>
 ### Boot on usb flash
  - Reboot your computer and press DEL key to get into your BIOS/UEFI.
@@ -107,8 +107,8 @@ sudo apt autoremove
 ## Customize Xfce
 
 ### Window Manager settings
-- First we will [download](https://www.gnome-look.org/p/1267246/){:target="_blank"} the nord theme.
-- First we will <a href="https://www.gnome-look.org/p/1267246/" target="_blank">download</a> the nord theme.
+- First we will [download](https://www.gnome-look.org/p/1267246/) the nord theme.
+
 
 
 
