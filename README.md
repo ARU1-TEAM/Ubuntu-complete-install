@@ -7,7 +7,7 @@
   * [Follow Instructions](#follow-instructions)
   * [Install grub-bootloader](#install-grub-bootloader)
   * [Install primary packages](#install-primary-packages)
-     * [Install primary packages](#install-primary-packages)
+     * [Install discord](#install-primary-packages)
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
 
