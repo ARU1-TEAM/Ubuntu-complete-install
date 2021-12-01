@@ -1,0 +1,10 @@
+#!/bin/bash
+  clear;
+ 
+ while [ -z $town ]
+  do
+  read -p "Entrer le nom de la ville pour voir la météo : " town;
+  done
+ 
+echo "Voici la météo de $town";
+ curl wttr.in/$town;

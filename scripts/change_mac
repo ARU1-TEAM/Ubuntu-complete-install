@@ -1,0 +1,13 @@
+#!/bin/bash 
+
+clear;
+#Shutting down the interface
+figlet setting random mac adress !;
+service network-manager stop;
+sudo ifconfig enp34s0 down;
+sudo macchanger -r enp34s0;
+sudo ifconfig enp34s0 up;
+service network-manager start;
+clear;
+macchanger --show enp34s0;
+

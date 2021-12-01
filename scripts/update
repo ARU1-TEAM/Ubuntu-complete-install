@@ -1,0 +1,7 @@
+#!/bin/bash
+
+clear;
+figlet PREPARE TO UPDATE;
+sudo apt update;
+figlet DONE;
+clear;
