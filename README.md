@@ -143,7 +143,16 @@ sudo apt-get install fonts-cantarell
 Then you can select "Cantarell regular" in both window manager and appearance over the font tab
 
 ### Panel Preferences
-   
+- `Whisker Menu`
+- `Separator`
+- `Window Buttons`
+- `Separator` (expand)
+- `Workspace Switcher`   
+- `Notification Area`
+- `PulseAudio Plugin`
+- `Separator`
+- `Clock`
+- `Separator`
     
 ## Customize Terminal
 
