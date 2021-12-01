@@ -23,7 +23,7 @@
   * [PowerLevel10k](#powerlevel10k)
   * [Customize Terminal Theme](#customize-terminal-theme)
 * [Install I3wm](#custom-i3wm)
-* [Install Bash Scripts](#install-bash-script)
+* [Install Bash Scripts](#install-bash-scripts)
   * [Update](#Update)
   * [Weather](#weather)
   * [Change Mac Adress](#change-mac-adress)
