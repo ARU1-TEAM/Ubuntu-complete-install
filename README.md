@@ -113,14 +113,16 @@ sudo apt autoremove
 - Put the extracted file into the ".themes"
 
 ### Icon Theme
-- Install Papirus Icon Theme
+Install Papirus Icon Theme
 ~~~ sh
 sudo add-apt-repository ppa:papirus/papirus
 sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ~~~
-- Go into appearance settings and select papirus-dark. 
+Go into appearance settings and select papirus-dark. 
 ### Cursor Theme
-
+- First [download](https://www.gnome-look.org/p/1505683/) the nord theme.
+- Create a ".cursor" folder at your ~/
+- Put the extracted file into the ".cursor"
 ### Fonts
 
