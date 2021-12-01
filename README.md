@@ -12,6 +12,7 @@
   * [Terminal applications](#terminal-applications)
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
+  * [Uninstall Xfce](#uninstall-xfce)
 * [Customize Xfce](#customize-xfce)
   * [Icons](#icons)
 * [Install i3wm](#custom-i3wm)
@@ -93,7 +94,7 @@ Install Xfce using this command
 sudo apt-get install xubuntu-desktop
 ~~~
 Select lightdm to get vanilla Xfce
-
+### Uninstall Xfce
 For uninstall Xfce using this command
 ~~~ sh
 sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar;
