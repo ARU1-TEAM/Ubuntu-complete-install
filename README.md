@@ -123,6 +123,8 @@ sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ~~~
 Go into appearance settings and select papirus-dark. 
+<p align="left"><img src="/screens/icon_theme.png" alt="icon_theme"></p>
+
 ### Cursor Theme
 - First [download](https://www.pling.com/p/1505683/) the Lyrax theme.
 - Create a ".icons" folder at your ~/
