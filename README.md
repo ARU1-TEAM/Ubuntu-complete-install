@@ -100,7 +100,3 @@ sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-u
 sudo apt autoremove
 ~~~
 ## Customize Xfce
-
-
-<span style="color: green"> Some green text </span>
-
