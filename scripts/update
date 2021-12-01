@@ -2,6 +2,7 @@
 
 clear;
 figlet PREPARE TO UPDATE;
-sudo apt update;
+sudo apt-get update;
+sudo updatedb;
 figlet DONE;
 clear;
