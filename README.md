@@ -86,6 +86,11 @@ snap install spotify code --classic
 ~~~ sh
 sudo apt-get install cava htop ranger neofetch cmatrix nano vim hollywood sl
 ~~~
+Install cava
+~~~ sh
+sudo add-apt-repository ppa:hsheth2/ppa;
+sudo apt-get install cava
+~~~
 
 ### Install Xfce
 
