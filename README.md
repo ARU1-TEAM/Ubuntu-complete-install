@@ -28,7 +28,7 @@
  - Select your usb-key in the boot menu.
  - Save and exit.
 ### Follow Instructions
- - Select your language and click "Install Ubuntu".
+ - Select your language and click "Install Ubuntu".<p align="center"><img src="/screens/ubuntu_installation.png" alt="ubuntu_installation"></p>
  - Select your keyboard layout. <p align="center"><img src="/screens/keyboard_layout.png" alt="keyboard"></p>
  - Select "Minimal installation" and both of the "other options". <p align="center"><img src="/screens/minimal_installation.png" alt="minimal_installation"></p>
  - Select "Erase disk and install Ubuntu" (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
@@ -93,7 +93,7 @@ Install Xfce using this command
 sudo apt-get install xubuntu-desktop;
 sudo systemctl enable lightdm
 ~~~
-Select lightdm to get vanilla Xfce
+Select lightdm to get vanilla Xfce <p align="center"><img src="/screens/configure_xfce_lightdm.png" alt="lightdm"></p>
 ### Uninstall Xfce
 For uninstall Xfce using this command
 ~~~ sh
