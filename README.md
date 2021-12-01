@@ -127,7 +127,8 @@ Go into appearance settings and select papirus-dark.
 - First [download](https://www.pling.com/p/1505683/) the Lyrax theme.
 - Create a ".icons" folder at your ~/
 - Put the extracted file into the ".icons"
-- Then go into "Mouse and Touchpad settings" over the "Theme" tab and select your cursor theme
+- Then go into "Mouse and Touchpad settings" over the "Theme" tab and select your cursor theme like so
+<p align="center"><img src="/screens/cursor.png" alt="cursor"></p>
 ### Fonts
 Install Cantarell font using
 ~~~ sh
