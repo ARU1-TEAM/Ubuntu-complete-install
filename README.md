@@ -48,7 +48,7 @@ sudo update-grub
 ### Install primary packages
 
  ~~~ sh
- sudo apt update
+ sudo apt-get update
  ~~~
 
 ### Install Xfce
