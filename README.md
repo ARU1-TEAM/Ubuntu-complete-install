@@ -11,7 +11,7 @@
   * [Side applications](#side-applications)
   * [Terminal applications](#terminal-applications)
 * [Install Xfce](#install-xfce)
-  * [xubuntu-desktop](#xubuntu-desktop)
+  * [Xubuntu-desktop](#xubuntu-desktop)
   * [Uninstall Xfce](#uninstall-xfce)
 * [Customize Xfce](#customize-xfce)
   * [Icons](#icons)
