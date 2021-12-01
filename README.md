@@ -96,9 +96,12 @@ sudo apt-get install cava
 Install Xfce using this command
 ~~~ sh
 sudo apt-get install xubuntu-desktop
-sudo systemctl enable lightdm
 ~~~
 Select lightdm to get vanilla Xfce <p align="left"><img src="/screens/configure_xfce_lightdm.png" alt="lightdm"></p>
+Then run this command before rebooting 
+~~~ sh
+sudo systemctl enable lightdm
+~~~
 ### Uninstall Xfce
 For uninstall Xfce using this command
 ~~~ sh
