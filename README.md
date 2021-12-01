@@ -68,6 +68,15 @@ sudo apt-get install nvidia nvidia-utils nvidia-settings
 ~~~
 
 ### Side applications
+
+Install the user graphical applications 
+~~~ sh
+snap install spotify teams netflix-web vlc
+~~~
+~~~ sh
+sudo apt-get install flameshot gnome-calculator libreoffice
+~~~
+
 Install Visual Studio Code
 ~~~ sh
 snap install spotify code --classic
