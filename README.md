@@ -6,8 +6,9 @@
   * [Boot on usb flash](#boot-on-usb-flash)
   * [Follow Instructions](#follow-instructions)
   * [Install grub-bootloader](#install-grub-bootloader)
- * [Install primary packages](#install-primary-packages)
-  * 
+ * [Install packages](#install-packages)
+  * [Primary packages](#primary-packages)
+  * [Side applications](#side-applications)
 * [Install Xfce](#install-xfce)
   * [xubuntu-desktop](#xubuntu-desktop)
 
@@ -46,8 +47,9 @@ Update grub
 sudo update-grub
 ~~~
 
-## Install primary packages
+## Install packages
 
+### Primary packages
 Update your packages
 ~~~ sh
 sudo apt-get update
@@ -68,6 +70,8 @@ If you need nvidia, install these
 ~~~ sh
 sudo apt-get install nvidia nvidia-utils nvidia-settings
 ~~~
+
+### Side applications
 
 ### Install Xfce
 
