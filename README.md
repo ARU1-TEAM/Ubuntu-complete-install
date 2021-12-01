@@ -118,7 +118,7 @@ sudo apt autoremove
 - First [download](https://www.gnome-look.org/p/1267246/) the nord theme.
 - Create a `.themes` folder at your `~/`.
 - Put the extracted file into the `.themes`.
-- Select the theme in both window manager and appearance settings like shown in the pictures.
+- Select the theme in both `Window Manager` and `Appearance` settings like shown in the pictures.
 
 ### Icon Theme
 Install Papirus Icon Theme
@@ -140,7 +140,7 @@ Install Cantarell font using
 ~~~ sh
 sudo apt-get install fonts-cantarell
 ~~~
-Then you can select "Cantarell regular" in both window manager and appearance over the font tab
+Then you can select `Cantarell Regular` in both window manager and appearance over the font tab
 
 ### Panel Preferences
 - `Whisker Menu`
@@ -155,6 +155,7 @@ Then you can select "Cantarell regular" in both window manager and appearance ov
 - `Separator (invisible)`
     
 ## Customize Terminal
+
 
 ### PowerLevel10k
 Install these PowerLevel10k fonts 
