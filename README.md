@@ -76,7 +76,7 @@ Install the user graphical applications
 ~~~ sh
 snap install spotify teams netflix-web vlc;
 sudo apt-get install flameshot gnome-calculator libreoffice;
-snap install spotify code --classic
+snap install code --classic
 ~~~
 
 ### Terminal applications
