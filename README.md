@@ -54,9 +54,8 @@ Update your packages
 ~~~ sh
 sudo apt-get update
 ~~~
-Install curl, git and zsh
 ~~~ sh
-sudo apt-get curl git zsh 
+sudo apt-get install curl git zsh wget nano vim zip gparted build-essential locate snap xarchiver
 ~~~
 Install oh-my-zsh
 ~~~
