@@ -74,20 +74,13 @@ Install the user graphical applications
 snap install spotify teams netflix-web vlc
 ~~~
 ~~~ sh
-sudo apt-get install flameshot gnome-calculator libreoffice
-~~~
-
-Install Visual Studio Code
-~~~ sh
+sudo apt-get install flameshot gnome-calculator libreoffice;
 snap install spotify code --classic
 ~~~
 
 ### Terminal applications
 ~~~ sh
-sudo apt-get install cava htop ranger neofetch cmatrix nano vim hollywood sl
-~~~
-Install cava
-~~~ sh
+sudo apt-get install cava htop ranger neofetch cmatrix nano vim hollywood sl;
 sudo add-apt-repository ppa:hsheth2/ppa;
 sudo apt-get install cava
 ~~~
