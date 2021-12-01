@@ -125,4 +125,10 @@ Go into appearance settings and select papirus-dark.
 - Create a ".cursor" folder at your ~/
 - Put the extracted file into the ".cursor"
 ### Fonts
+- First [download](https://www.pling.com/p/1505683/) the Lyrax theme.
+- Create a ".icons" folder at your ~/
+- Put the extracted file into the ".icons"
+
+    
+
 
