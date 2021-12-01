@@ -31,7 +31,7 @@
 
 ### Install primary packages
 
- ~~~
+ ~~~ sh
  sudo apt update
  ~~~
 
