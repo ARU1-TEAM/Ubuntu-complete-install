@@ -97,7 +97,7 @@ Select lightdm to get vanilla Xfce
 ### Uninstall Xfce
 For uninstall Xfce using this command
 ~~~ sh
-sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar;
+sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar gdm3;
 sudo apt autoremove
 ~~~
 ## Customize Xfce
