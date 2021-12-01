@@ -24,6 +24,7 @@
   * [Customize Terminal Theme](#customize-terminal-theme)
 * [Install I3wm](#custom-i3wm)
 * [Install Bash Scripts](#install-bash-script)
+  * [Update](#Update)
   * [Weather](#weather)
   * [Change Mac Adress](#change-mac-adress)
 
@@ -184,6 +185,18 @@ Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`
 ## Install I3wm
 
 ## Install Bash Scripts
+- First go into the repository and go in the scripts folder using `cd scripts`.
+- Then Make any script executable with this command 
+~~~ sh
+sudo chmod +x exmaple 
+~~~
+- Then put the script in the `~/usr/bin/` folder using this command
+~~~ sh
+cp example ~/usr/bin/
+~~~
+- And finaly you can run the script like any other script that is in ubuntu
+
+### Update
 
 ### Weather
 
