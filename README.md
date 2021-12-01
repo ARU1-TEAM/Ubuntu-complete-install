@@ -107,8 +107,8 @@ Then run this command to enable lightdm, then you might reboot as well
 ~~~ sh
 sudo systemctl enable lightdm
 ~~~
-### Uninstall Xfce.
-For uninstall Xfce using this command.
+### Uninstall Xfce
+For uninstall Xfce using this command
 ~~~ sh
 sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar gdm3
 sudo apt autoremove
