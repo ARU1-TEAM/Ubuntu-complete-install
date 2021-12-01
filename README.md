@@ -31,15 +31,15 @@ This repository is made to help you in the complete installation of Ubuntu. At t
 ### Create usb flash
  - Download [Ubuntu iso file](https://ubuntu.com/#download) and select the latest version.
  - Download [balenaEtcher](https://www.balena.io/etcher/).
- - Load balena etcher, put iso file and select your usb key.<p align="left"><img src="/screens/balena.png" alt="balena"></p>
+ - Load balena etcher, put iso file and select your usb key.
 ### Boot on usb flash
  - Reboot your computer and press DEL key to get into your BIOS/UEFI.
  - Select your usb-key in the boot menu.
  - Save and exit.
 ### Follow Instructions
- - Select your language and click `Install Ubuntu`.<p align="left"><img src="/screens/ubuntu_installation.png" alt="ubuntu_installation"></p>
- - Select your keyboard layout. <p align="left"><img src="/screens/keyboard_layout.png" alt="keyboard"></p>
- - Select `Minimal installation` and both of the `other options`. <p align="left"><img src="/screens/minimal_installation.png" alt="minimal_installation"></p>
+ - Select your language and click `Install Ubuntu`.
+ - Select your keyboard layout. 
+ - Select `Minimal installation` and both of the `other options`. 
  - Select `Erase disk and install Ubuntu` (be carful, this option only works if you want to install the os on an empty disk , otherwise select the other option).
  - Select your regiion
  - Choose your name, computer's name, username and password.
@@ -101,7 +101,7 @@ Install Xfce using this command
 ~~~ sh
 sudo apt-get install xubuntu-desktop
 ~~~
-Select lightdm to get vanilla Xfce <p align="left"><img src="/screens/configure_xfce_lightdm.png" alt="lightdm"></p>
+Select lightdm to get vanilla Xfce 
 Then run this command to enable lightdm, then you might reboot as well 
 ~~~ sh
 sudo systemctl enable lightdm
@@ -119,8 +119,6 @@ sudo apt autoremove
 - Create a `.themes` folder at your `~/`.
 - Put the extracted file into the `.themes`.
 - Select the theme in both window manager and appearance settings like shown in the pictures.
-<p align="left"><img src="/screens/window_manager_style.png" alt="window_style"></p>
-<p align="left"><img src="/screens/appearance_style.png " alt="appearance_style"></p>
 
 ### Icon Theme
 Install Papirus Icon Theme
@@ -130,14 +128,12 @@ sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ~~~
 Go into appearance settings and select papirus-dark. 
-<p align="left"><img src="/screens/icon_theme.png" alt="icon_theme"></p>
 
 ### Cursor Theme
 - First [download](https://www.pling.com/p/1505683/) the Lyrax theme.
 - Create a `.icons` folder at your `~/`.
 - Put the extracted file into the `.icons`.
 - Then go into `Mouse and Touchpad settings` over the `Theme` tab and select your cursor theme like so
-<p align="left"><img src="/screens/cursor.png" alt="cursor"></p>
 
 ### Fonts
 Install Cantarell font using 
@@ -147,9 +143,7 @@ sudo apt-get install fonts-cantarell
 Then you can select "Cantarell regular" in both window manager and appearance over the font tab
 
 ### Panel Preferences
-
-<p align="left"><img src="/screens/panel_config.png" alt="panel-config"></p>
-    
+   
     
 ## Customize Terminal
 
@@ -160,7 +154,6 @@ Install these PowerLevel10k fonts
 - [MesloLGS NF Italic.ttf](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Italic.ttf)
 - [MesloLGS NF Bold Italic.ttf]( https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold%20Italic.ttf)
 
-<p align="left"><img src="/screens/terminal_appearance.png" alt="terminal_appearance"></p>
 
 Clone this repository
 ~~~ sh
