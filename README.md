@@ -107,7 +107,7 @@ sudo apt autoremove
 ## Customize Xfce
 
 ### Window Manager settings
-
+- First we will [download](https://www.gnome-look.org/p/1267246/) the nord theme.
 
 
 
