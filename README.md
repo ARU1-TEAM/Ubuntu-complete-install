@@ -197,10 +197,10 @@ cp example ~/usr/bin/
 - And finaly you can run the script like any other script that is in ubuntu
 
 ### Update
-The [Update Script]() will update every package that you have in your OS.
+The [Update Script](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/scripts/update) will update every package that you have in your OS.
 
 ### Weather
-The [Weather Script]() will ask you your location and show you the weather forecasts
+The [Weather Script](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/scripts/weather) will ask you your location and show you the weather forecasts
 
 ### Change Mac Adress
-The [Change_Mac Script]() will change your mac adress. Very userfull if you want to bypass the router blocking system.
+The [Change_Mac Script](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/scripts/change_mac) will change your mac adress. Very userfull if you want to bypass the router blocking system.
