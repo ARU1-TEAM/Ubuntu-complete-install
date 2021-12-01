@@ -14,7 +14,7 @@
   * [Xubuntu-desktop](#xubuntu-desktop)
   * [Uninstall Xfce](#uninstall-xfce)
 * [Customize Xfce](#customize-xfce)
-  * [Theme](#theme)
+
 * [Install i3wm](#custom-i3wm)
 
 ## Introduction
