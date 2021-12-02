@@ -40,7 +40,7 @@
     * [Fonts](#fonts)
   * [Rofi](#rofi)
     * [Install Rofi](#install-rofi)
-    * Customize Rofi](#customize-rofi)
+    * [Customize Rofi](#customize-rofi)
   * [Uninstall i3wm](#uninstall-i3wm)
 * [Install Bash Scripts](#install-bash-scripts)
   * [Update](#update)
