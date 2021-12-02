@@ -5,7 +5,9 @@
   * [Create USB Flash](#create-usb-flash)
   * [Boot On USB Flash](#boot-on-usb-flash)
   * [Follow Instructions](#follow-instructions)
+* [Grub](#grub)
   * [Install Grub](#install-grub)
+  * [Customize Grub](#customize-grub) 
 * [Install Packages](#install-packages)
   * [Primary Packages](#primary-packages)
   * [Side Applications](#side-applications)
@@ -72,8 +74,9 @@ This repository is made to help you in the complete installation of Ubuntu. At t
  - Choose your name, computer's name, username and password.
  - Once the installation is finished, restart your computer.
 
-### Install Grub
-
+## Grub
+Grub is a simple way to set a dualboot on your computer. It is a bootloader.
+### Install Grub 
 Install os-prober and grub2 packages 
 ~~~ sh
 sudo apt-get install os-prober grub2
@@ -86,6 +89,7 @@ Update grub
 ~~~ sh
 sudo update-grub
 ~~~
+### Customize Grub
 
 ## Install Packages
 
