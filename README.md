@@ -20,6 +20,7 @@
     * [Panel Preferences](#panel-preferences)
 * [Uninstall Xfce](#uninstall-xfce)
 * [Customize Terminal](#customize-terminal)
+  * [Nano Synthax colors](#nano-synthax-colors)
   * [PowerLevel10k](#powerlevel10k)
   * [Customize Terminal Theme](#customize-terminal-theme)
 * [I3wm](#i3wm)
@@ -193,6 +194,7 @@ sudo apt autoremove
 
 ## Customize Terminal
 
+### Nano Synthax Colors
 
 ### PowerLevel10k
 Install these PowerLevel10k fonts 
