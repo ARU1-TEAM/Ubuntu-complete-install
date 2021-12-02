@@ -250,11 +250,21 @@ To configure shortcuts set `bindsym $mod+ `and then the following key you want t
 
 #### Display 
 We will use xrandr to configure your displays settings. First we will install xrandr with this command :
-
 ``` sh
 sudo apt-get install x11-xserver-utils
 ```
-
+Now, we will edit the .profile file so that xrandr executes at each startup. To edit the file type :
+``` sh
+nano ~/.profile
+```
+| Command |Result                     | Example        |
+|---------|---------------------------|----------------|
+| --output|Select the display         |Dp-1            |
+| --mode  |Select the resolution      |1920x1080       |
+|--rate   |select display             |144.00          |
+|--primary|Put a screen on primary    |/               |
+|--left-of|Put the screen on primary  |DVI-D-1         |
+|--rotate |rotate                     |normal, inverted|
 ### Customize i3wm
 
 ### Uninstall i3wm
@@ -322,4 +332,3 @@ This projet wad made by LumaGreen and Felixoux. We hope you really enjoyed it an
 Thank you for sharing 😊
 
 
-done
