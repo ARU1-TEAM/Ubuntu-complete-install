@@ -122,6 +122,8 @@ sudo apt-get install cava
 
 ## Xfce
 
+<p align="center"><img src="/screens/xfce-banner.png" alt="ubuntu"></p>
+
 Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
 
 ### Install Xfce
