@@ -218,8 +218,15 @@ The [Weather Script](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/
 The [Change_Mac Script](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/scripts/change_mac) will change your mac adress. Very userfull if you want to bypass the router blocking system.
 
 ## Troubleshoot
-
-
+In case something doens't work. Make shure tu run the update command to see if the issue persists.
+~~~ sh
+sudo apt-get update
+~~~
+You can even upgrade your Ubuntu installion with.
+~~~ sh
+sudo apt-get upgrade
+~~~
+If your powerlevel10k fonts doenst match. Please check if you already put the proper fonts in your terminal preferences. In this case, you have to put the `MesloLGS NF Regular`
 ## Sources
 For this Ubuntu-installation repository, we used several videos and githubs. All of them are listed down here in case you need it.
 ### Youtube
