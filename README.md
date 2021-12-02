@@ -225,5 +225,5 @@ For this Ubuntu-installation repository, we used several videos and githubs. All
 - This is the github for [PowerLevel10k](https://github.com/romkatv/powerlevel10k). To custom your terminal.
 
 ## Credits
-This projet wad made by Felixoux and LumaGreen. We hope you really enjoyed it and it was helpfull. Feel free to contact us if something doens't work anymore, we will fix it ! 
+This projet wad made by LumaGreen and Felixoux. We hope you really enjoyed it and it was helpfull. Feel free to contact us if something doens't work anymore, we will fix it ! 
 Thank you for sharing 😊
