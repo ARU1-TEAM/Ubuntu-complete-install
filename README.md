@@ -285,6 +285,7 @@ If you don't no your screen name, just type `xrandr` in your terminal.
 |--primary|Put a screen on primary              |/               |
 |--left-of|Put the the scree, on left of another|DVI-D-1         |
 |--rotate |Rotate the screen                    |normal, inverted|
+
 ### Customize i3wm
 
 #### Gaps
@@ -295,7 +296,16 @@ sudo apt-get install i3-gaps
 ```
 To set gaps, type `inner gaps X` in `~/.config/i3/config` and replace X by anny value that you would like, 10 is good.
 
-### Customize i3wm
+#### picom
+Picom is made do customize your i3wm. Install it by running this command 
+~~~ sh 
+sudo apt-get picom
+~~~
+Then you need to locate your `picom.conf` file by doing this
+~~~ sh
+locate picom.conf
+~~~
+Once you know it's location. You have to copy and paste it in `~/.config/picom/picom`. Some directories might not be existing, in this case you will have to create them. 
 
 ### Uninstall i3wm
 
