@@ -32,7 +32,7 @@
   * [Customize i3wm](#customize-i3wm)
     * [Colors](#colors)
     * [Gaps](#gaps)
-    * [Backgrounds](#backgrounds)
+    * [Picom](#Picom)
     * [Fonts](#fonts)
   * [Uninstall i3wm](#uninstall-i3wm)
 * [Install Bash Scripts](#install-bash-scripts)
