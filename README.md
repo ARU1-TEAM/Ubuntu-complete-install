@@ -10,20 +10,22 @@
   * [Primary Packages](#primary-packages)
   * [Side Applications](#side-applications)
   * [Terminal Applications](#terminal-applications)
-* [Install Xfce](#install-xfce)
-  * [Xubuntu-Desktop](#xubuntu-desktop)
-  * [Uninstall Xfce](#uninstall-xfce)
-* [Customize Xfce](#customize-xfce)
-  * [Window Theme](#window-theme)
-  * [Icon Theme](#icon-theme)
-  * [Cursor Theme](#cursor-theme)
-  * [Fonts](#fonts)
-  * [Panel Preferences](#panel-preferences)
+* [Xfce](#xfce)
+  * [Install Xfce](#instal-xfce) 
+  * [Customize Xfce](#customize-xfce)
+    * [Window Theme](#window-theme)
+    * [Icon Theme](#icon-theme)
+    * [Cursor Theme](#cursor-theme)
+    * [Fonts](#fonts)
+    * [Panel Preferences](#panel-preferences)
+* [Uninstall Xfce](#uninstall-xfce)
 * [Customize Terminal](#customize-terminal)
   * [PowerLevel10k](#powerlevel10k)
   * [Customize Terminal Theme](#customize-terminal-theme)
-* [Install I3wm](#install-i3wm)
-  * []
+* [I3wm](#i3wm)
+  * [Install i3wm](install-i3wm)
+  * [Customize i3wm](#customize-i3wm)
+  * [Uninstall i3wm](#uninstall-i3wm)
 * [Customize I3wm](#customize-i3wm)
 * [Install Bash Scripts](#install-bash-scripts)
   * [Update](#Update)
@@ -110,8 +112,8 @@ sudo add-apt-repository ppa:hsheth2/ppa
 sudo apt-get install cava
 ~~~
 
+### Xfce
 ### Install Xfce
-### Xubuntu-Desktop
 Install Xfce using this command
 ~~~ sh
 sudo apt-get install xubuntu-desktop
@@ -121,12 +123,7 @@ Then run this command to enable lightdm, then you might reboot as well
 ~~~ sh
 sudo systemctl enable lightdm
 ~~~
-### Uninstall Xfce
-For uninstall Xfce using this command
-~~~ sh
-sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar gdm3
-sudo apt autoremove
-~~~
+
 ## Customize Xfce
 
 ### Window Theme
@@ -174,7 +171,13 @@ These are the modules to boot in the `Items Tab` in your `Panel Preferences`:
 |             Clock            |
 |    Separator (invisible)     |
 
-    
+### Uninstall Xfce
+For uninstall Xfce using this command
+~~~ sh
+sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar gdm3
+sudo apt autoremove
+~~~
+
 ## Customize Terminal
 
 
@@ -199,7 +202,13 @@ Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`
 
 Here you can find a [Nord Theme](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/xfce4/Terminal/nord.theme), here a [Dracula Theme](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/xfce4/Terminal/dracula.theme) and here a [Gruvbox Theme](https://github.com/ARU1-TEAM/Ubuntu-installation/blob/main/xfce4/Terminal/gruvbox.theme).
 
-## Install I3wm
+## I3wm
+
+## Install i3wm
+
+## Customize i3wm
+
+## Uninstall i3wm
 
 ## Install Bash Scripts
 - First go into the repository and go in the scripts folder using `cd scripts`.
