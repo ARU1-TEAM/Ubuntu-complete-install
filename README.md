@@ -345,6 +345,6 @@ This projet wad made by LumaGreen and Felixoux. We hope you really enjoyed it an
 Thank you for sharing 😊
 
 
-```diff
-- Uninstall Xfce
-```
+<p style='color:red'>This is some red text.</p>
+
+
