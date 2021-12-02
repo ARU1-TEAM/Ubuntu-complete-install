@@ -149,6 +149,21 @@ Then you can select `Cantarell Regular` in both `Window Manager` and `Appearance
 
 ### Panel Preferences
 These are the modules to boot in the `Items Tab` in your `Panel Preferences`:
+
+
+|Modules                       |           
+|------------------------------|
+|`Whisker Menu`                |
+|`Separator (invisible)`       |  
+|`Window Buttons`              |
+|`Separator (expend invisible)`|
+|`Workspace Switcher`          |
+|`Notification Area`           |
+|`PulseAudio Plugin`           |
+|`Separator (invisible)`       |
+|`Clock`                       |
+|`Separator (invisible)`       |
+
 - `Whisker Menu`
 - `Separator (invisible)`
 - `Window Buttons`
