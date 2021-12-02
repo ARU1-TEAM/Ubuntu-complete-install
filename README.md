@@ -218,5 +218,7 @@ The [Change_Mac Script](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/ma
 ## Sources
 For this Ubuntu-installation repository, we used several videos and githubs. All of them are listed down here in case you need it.
 ### Youtube
-We mainly used a Tech [Sama's video](https://www.youtube.com/watch?v=kZS84ctzii8&t=1546s) to install Ubuntu. Click [here](https://www.youtube.com/channel/UCPP-NkzSqMJ9ywhJkcgrpAw) to see his channel.
+We mainly used a Tech [Sama's video](https://www.youtube.com/watch?v=kZS84ctzii8&t=1546s) to install Ubuntu (french video). Click [here](https://www.youtube.com/channel/UCPP-NkzSqMJ9ywhJkcgrpAw) to see his channel.
+- We also used [this video](https://www.youtube.com/watch?v=rKPoK_0hYwA&t=117s) to install xfce.
+- 
 ### Github
