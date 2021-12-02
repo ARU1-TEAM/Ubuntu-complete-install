@@ -92,7 +92,7 @@ sudo update-grub
 ~~~
 
 ### Customize Grub
-You can find multiple grub Theme here. But we will use the `tela` theme in our case. To install it, just do
+You can find multiple grub Theme [here](https://www.pling.com/find?search=grub%20theme). But we will use the `tela` theme in our case. To install it, just do
 ~~~ sh
 git clone https://github.com/vinceliuice/grub2-themes.git
 cd grub2-themes
