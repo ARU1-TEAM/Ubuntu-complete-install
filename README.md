@@ -38,6 +38,9 @@
     * [Picom](#Picom)
     * [Polybar](#polybar)
     * [Fonts](#fonts)
+  * [Rofi](#rofi)
+    * [Install Rofi](#install-rofi)
+    * Customize Rofi](#customize-rofi)
   * [Uninstall i3wm](#uninstall-i3wm)
 * [Install Bash Scripts](#install-bash-scripts)
   * [Update](#update)
@@ -302,11 +305,6 @@ If you don't no your screen name, just type `xrandr` in your terminal.
 
 ### Customize i3wm
 
-#### Rofi 
-Rofi is a menu to search applications. To install it, simply type
-~~~ sh
-sudo apt-get install rofi
-~~~
 #### Gaps
 First install i3-gaps packages :
 ``` sh
@@ -346,8 +344,22 @@ sudo ./build.sh
 - And lastly you have to put `exec_always --no-startup-id "killall polybar; polybar -r X"` in `~/.config/i3/config` to run polybar. Don't forget to change X to the name you gave your bar in `~/.config/polybar/config`. 
 - You might have to reinstall i3-gaps because of polybar.
 
+### Rofi 
+Rofi is a menu to search applications. 
+#### Install Rofi
+To install it, simply type
+~~~ sh
+sudo apt-get install rofi
+~~~
+#### Customize Rofi
+If you want to customize Rofi, follow the next steps. 
+- First create `.Xressources` file in `~/`.
+- Change the color values. If your `.Xressources` is empty, you can copy one from the repository in `i3wm/rofi/.Xressources`
+- Once you finished do not forget to type the following command to apply the changes.
 
-
+~~~ sh
+xrdb .Xressources
+~~~
 ### Uninstall i3wm
 
 ## Install Bash Scripts
