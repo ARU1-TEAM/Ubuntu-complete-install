@@ -27,6 +27,7 @@
   * [Update](#Update)
   * [Weather](#weather)
   * [Change Mac Adress](#change-mac-adress)
+* [Troubleshoot](#troubleshoot)
 * [Sources](#sources)
   * [Youtube](#youtube)
   * [Github](#github)
@@ -215,6 +216,9 @@ The [Weather Script](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/
 
 ### Change Mac Adress
 The [Change_Mac Script](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/scripts/change_mac) will change your mac adress. Very userfull if you want to bypass the router blocking system.
+
+## Troubleshoot
+
 
 ## Sources
 For this Ubuntu-installation repository, we used several videos and githubs. All of them are listed down here in case you need it.
