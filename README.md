@@ -30,6 +30,7 @@
 * [Sources](#sources)
   * [Youtube](#youtube)
   * [Github](#github)
+* [Credits](#credits)
 
 ## Introduction
 This repository is made to help you in the complete installation of Ubuntu. At the end of this repo you will get a nice xfce4 fully nord customized on your ubuntu followed by I3wm and all it's customization as well. Some pictures are avaible in the [screens folder](https://github.com/ARU1-TEAM/Ubuntu-install/tree/main/screens) of the repository.
@@ -222,3 +223,7 @@ For this Ubuntu-installation repository, we used several videos and githubs. All
 - We also used [this video](https://www.youtube.com/watch?v=rKPoK_0hYwA&t=117s) to install xfce.
 ### Github
 This is the github for [PowerLevel10k](https://github.com/romkatv/powerlevel10k). To custom your terminal.
+
+## Credits
+This projet wad made by Felixoux and LumaGreen. We hope you really enjoyed it and it was helpfull. Feel free to contact us if something doens't work anymore, we will fix it ! 
+Thank you for sharing 😊
