@@ -30,6 +30,7 @@
 * [Troubleshoot](#troubleshoot)
   * [Powerlevel10k Issue](#powerlevel10k-issue)
   * [LightDm](#lightdm)
+  * [Grub Issue](#grub-issue)
 * [Sources](#sources)
   * [Youtube](#youtube)
   * [Github](#github)
@@ -241,6 +242,13 @@ sudo apt-get install lightdm
 sudo systemctl enable lightdm
 ~~~
 And then reboot you computer to apply the changes. 
+### Grub Issue
+If you installed a new OS on your computer. Don't forget to update the grub so it can find it. Just do these commands
+~~~ sh 
+sudo os-prober 
+sudo update-grub
+~~~
+It will normally detect your new OS. So now you can reboot and select what OS you want to use.
 ## Sources
 For this Ubuntu-installation repository, we used several videos and githubs. All of them are listed down here in case you need it.
 ### Youtube
