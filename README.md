@@ -216,6 +216,7 @@ Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`
 Here you can find a [Nord Theme](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/xfce4/Terminal/nord.theme), here a [Dracula Theme](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/xfce4/Terminal/dracula.theme) and here a [Gruvbox Theme](https://github.com/ARU1-TEAM/Ubuntu-installation/blob/main/xfce4/Terminal/gruvbox.theme).
 
 ## I3wm
+<p align="center"><img src="/screens/I3.png" alt="I3wm"></p>
 
 I3 wm which is a tiling window manager. It really helps being productive and it is really customizable. But it is not a desktop environement !
 
