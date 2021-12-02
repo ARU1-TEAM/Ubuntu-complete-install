@@ -110,7 +110,7 @@ sudo apt-get install nvidia-settings
 ### Side Applications
 Install the user graphical applications 
 ~~~ sh
-snap install spotify teams netflix-web vlc
+snap install spotify teams netflix-web vlc discord
 sudo apt-get install flameshot gnome-calculator libreoffice
 snap install code --classic
 ~~~
