@@ -433,7 +433,8 @@ For this Ubuntu-installation repository, we used several videos and githubs. All
 - We also used [this video](https://www.youtube.com/watch?v=rKPoK_0hYwA&t=117s) to install xfce.
 ### Github
 - This is the github for [PowerLevel10k](https://github.com/romkatv/powerlevel10k). To custom your terminal.
-
+### Nord theme 
+You can also check the [nord theme palette](https://www.nordtheme.com/) which inspired us to do this theme. 
 ## Credits
 This projet was made by LumaGreen and Felixoux. We hope you really enjoyed it and it was helpfull. Feel free to contact us if something doens't work anymore, we will fix it ! 
 Thank you for sharing 😊
