@@ -22,7 +22,9 @@
 * [Customize Terminal](#customize-terminal)
   * [PowerLevel10k](#powerlevel10k)
   * [Customize Terminal Theme](#customize-terminal-theme)
-* [Install I3wm](#custom-i3wm)
+* [Install I3wm](#install-i3wm)
+  * []
+* [Customize I3wm](#customize-i3wm)
 * [Install Bash Scripts](#install-bash-scripts)
   * [Update](#Update)
   * [Weather](#weather)
