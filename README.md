@@ -321,7 +321,7 @@ locate picom.conf
 Polybar is a status bar that helps the user feel comfortable, it is quite usefull.
 - First install all the dependencies with this command 
 ~~~ sh
-sudo apt-get install cmake clang python3 python3-sphinx libuv1-dev alsa-utils libasound2-dev libcurl4-openssl-dev libmpdclient-dev libcairo2-dev 
+sudo apt-get install cmake clang python3 python3-sphinx libuv1-dev alsa-utils libasound2-dev libcurl4-openssl-dev libmpdclient-dev libcairo2-dev libiw-dev
 ~~~
 - Then git clone the polybar repository with 
 ~~~ sh
