@@ -259,12 +259,12 @@ nano ~/.profile
 ```
 | Command |Result                     | Example        |
 |---------|---------------------------|----------------|
-| --output|Select the display         |Dp-1            |
+| --output|Select the display         |DP-1            |
 | --mode  |Select the resolution      |1920x1080       |
-|--rate   |select display             |144.00          |
+|--rate   |Select display             |144.00          |
 |--primary|Put a screen on primary    |/               |
 |--left-of|Put the screen on primary  |DVI-D-1         |
-|--rotate |rotate                     |normal, inverted|
+|--rotate |Rotate the screen          |normal, inverted|
 ### Customize i3wm
 
 ### Uninstall i3wm
