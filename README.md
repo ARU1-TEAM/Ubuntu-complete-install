@@ -25,7 +25,7 @@
 * [I3wm](#i3wm)
   * [Install i3wm](#install-i3wm)
   * [Configure i3wm](#configure-i3wm)
-    * [$Mod Key](#$mod-key)
+    * [Mod Key](#mod-key)
     * [Shortcuts](#shortcuts)
     * [Fonts](#fonts)
   * [Customize i3wm](#customize-i3wm)
@@ -230,16 +230,22 @@ Once you are in the terminal, type this command to modify the I3 configuration f
 nano ~/.config/i3/config
 ~~~
 
-#### $Mod Key
+#### Mod Key
+
+In case you want to change your mod key. Find the set $mod ModX a te beginning of the     file. Replace the X with 1 or 4 like shown in the table right under.
 
 |$mod   |key  |
 |-------|-----|
 |$mod1  |`Alt`|
-|#modd4 |`Win`|
+|#mod4  |`Win`|
+
 
 #### Shortcuts
 
+To configure shortcuts set `bindsym $mod+ `and then the following key you want to press. For ewample we will run the terminal by pressing `alt+enter`. So we will do `bindsym $mod+enter exec xfce4-terminal`.
+
 #### Fonts
+
 ### Customize i3wm
 
 ### Uninstall i3wm
