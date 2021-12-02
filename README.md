@@ -154,15 +154,15 @@ These are the modules to boot in the `Items Tab` in your `Panel Preferences`:
 |              Items           |           
 |:----------------------------:|
 |       Whisker Menu           |
-|    `Separator (invisible)`   |  
-|       `Window Buttons`       |
-|`Separator (expend invisible)`|
-|      `Workspace Switcher`    |
-|     `Notification Area`      |
-|     `PulseAudio Plugin`      |
-|    `Separator (invisible)`   |
-|           `Clock`            |
-|    `Separator (invisible)`   |
+|     Separator (invisible)    |  
+|        Window Buttons        |
+| Separator (expend invisible) |
+|        Workspace Switcher    |
+|     Notification Area        |
+|       PulseAudio Plugin      |
+|    Separator (invisible)     |
+|             Clock            |
+|    Separator (invisible)     |
 
     
 ## Customize Terminal
