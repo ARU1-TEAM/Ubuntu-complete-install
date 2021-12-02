@@ -238,7 +238,7 @@ In case you want to change your mod key. Find the `set $mod ModX` at the beginni
 |$mod   |key  |
 |-------|-----|
 |$mod1  |`Alt`|
-|#mod4  |`Win`|
+|$mod4  |`Win`|
 
 
 #### Shortcuts
