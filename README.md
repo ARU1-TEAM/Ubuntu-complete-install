@@ -345,3 +345,10 @@ This projet wad made by LumaGreen and Felixoux. We hope you really enjoyed it an
 Thank you for sharing 😊
 
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
