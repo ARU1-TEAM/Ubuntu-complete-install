@@ -257,14 +257,15 @@ Now, we will edit the .profile file so that xrandr executes at each startup. To 
 ``` sh
 nano ~/.profile
 ```
-| Command |Result                     | Example        |
-|---------|---------------------------|----------------|
-| --output|Select the display         |DP-1            |
-| --mode  |Select the resolution      |1920x1080       |
-|--rate   |Select display             |144.00          |
-|--primary|Put a screen on primary    |/               |
-|--left-of|Put the screen on primary  |DVI-D-1         |
-|--rotate |Rotate the screen          |normal, inverted|
+If you don't no your screen name, just type `xrandr` in your terminal.
+| Command |Result                               | Example        |
+|---------|-------------------------------------|----------------|
+| --output|Select the display                   |DP-1            |
+| --mode  |Select the resolution                |1920x1080       |
+|--rate   |Select display                       |144.00          |
+|--primary|Put a screen on primary              |/               |
+|--left-of|Put the the scree, on left of another|DVI-D-1         |
+|--rotate |Rotate the screen                    |normal, inverted|
 ### Customize i3wm
 
 ### Uninstall i3wm
