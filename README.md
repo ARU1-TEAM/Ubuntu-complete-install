@@ -268,6 +268,15 @@ If you don't no your screen name, just type `xrandr` in your terminal.
 |--rotate |Rotate the screen                    |normal, inverted|
 ### Customize i3wm
 
+#### Gaps
+First install i3-gaps packages :
+``` sh
+sudo add-apt-repository ppa:regolith-linux/release
+sudo apt-get install i3-gaps
+```
+To set gaps, type `innser gaps X` in `~/.config/i3/config`
+
+
 ### Uninstall i3wm
 
 ## Install Bash Scripts
