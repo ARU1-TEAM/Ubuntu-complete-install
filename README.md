@@ -164,16 +164,6 @@ These are the modules to boot in the `Items Tab` in your `Panel Preferences`:
 |           `Clock`            |
 |    `Separator (invisible)`   |
 
-- `Whisker Menu`
-- `Separator (invisible)`
-- `Window Buttons`
-- `Separator (expend invisible)` 
-- `Workspace Switcher`   
-- `Notification Area`
-- `PulseAudio Plugin`
-- `Separator (invisible)`
-- `Clock`
-- `Separator (invisible)`
     
 ## Customize Terminal
 
