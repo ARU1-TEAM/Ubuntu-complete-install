@@ -152,7 +152,7 @@ These are the modules to boot in the `Items Tab` in your `Panel Preferences`:
 
 
 |Modules                       |           
-|------------------------------|
+|:----------------------------:|
 |       `Whisker Menu`         |
 |    `Separator (invisible)`   |  
 |       `Window Buttons`       |
