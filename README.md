@@ -362,7 +362,7 @@ rofi.color-window: #4c566a, #5e81ac, #434c5e
 rofi.color-normal: #4c566a, #5e81ac, #4c566a, #81a1c1
 rofi.color-active: #ff0000, #00ff00, #0000ff, #268bd2
 rofi.color-urgent: #393939, #f3843d, #393939, #268bd2
-rofi.font:                            Inter 13
+rofi.font:                           Inter 13
 rofi.hide-scrollbar:                 true
 ~~~
 - Once you finished do not forget to type the following command to apply the changes.
