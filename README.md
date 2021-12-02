@@ -28,7 +28,7 @@
   * [Weather](#weather)
   * [Change Mac Adress](#change-mac-adress)
 * [Troubleshoot](#troubleshoot)
-  * [Powerlevel10k](#powerlevel10k)
+  * [Powerlevel10k Issue](#powerlevel10k-issue)
 * [Sources](#sources)
   * [Youtube](#youtube)
   * [Github](#github)
@@ -227,7 +227,7 @@ You can even upgrade your Ubuntu installion with.
 ~~~ sh
 sudo apt-get upgrade
 ~~~
-### PowerLevel10k
+### PowerLevel10k Issue
 If your powerlevel10k fonts doenst match. Please check if you already put the proper fonts in your terminal preferences. In this case, you have to put the `MesloLGS NF Regular`
 ## Sources
 For this Ubuntu-installation repository, we used several videos and githubs. All of them are listed down here in case you need it.
