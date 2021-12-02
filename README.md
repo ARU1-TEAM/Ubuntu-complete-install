@@ -27,6 +27,7 @@
   * [Update](#Update)
   * [Weather](#weather)
   * [Change Mac Adress](#change-mac-adress)
+* [Sources](#sources)
 
 ## Introduction
 This repository is made to help you in the complete installation of Ubuntu. At the end of this repo you will get a nice xfce4 fully nord customized on your ubuntu followed by I3wm and all it's customization as well. Some pictures are avaible in the [screens folder](https://github.com/ARU1-TEAM/Ubuntu-install/tree/main/screens) of the repository.
@@ -211,3 +212,5 @@ The [Weather Script](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/
 
 ### Change Mac Adress
 The [Change_Mac Script](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/scripts/change_mac) will change your mac adress. Very userfull if you want to bypass the router blocking system.
+
+## Sources
