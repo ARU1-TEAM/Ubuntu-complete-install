@@ -28,7 +28,6 @@
     * [$Mod Key](#$mod-key)
     * [Shortcuts](#shortcuts)
     * [Fonts](#fonts)
-    * 
   * [Customize i3wm](#customize-i3wm)
     * [](#)
   * [Uninstall i3wm](#uninstall-i3wm)
@@ -225,13 +224,19 @@ Now we can log out and switch from xfce-session to I3. Normally a prompt should 
 
 ### Configure i3wm
 
-#### $Mod Key
-
 Now we will configure everything and for that we have to press $mod+enter to get into the     terminal. $mod is either the    win or alt  key. It depends on what you chose earlier. 
 Once you are in the terminal, type this command to modify the I3 configuration file.     Remember it’s path, we will use it really often.
 ~~~ sh
 nano ~/.config/i3/config
 ~~~
+
+#### $Mod Key
+
+|$mod   |key  |
+|-------|-----|
+|$mod1  |`Alt`|
+|#modd4 |`Win`|
+
 #### Shortcuts
 
 #### Fonts
