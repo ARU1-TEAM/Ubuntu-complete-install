@@ -24,11 +24,13 @@
   * [Customize Terminal Theme](#customize-terminal-theme)
 * [I3wm](#i3wm)
   * [Install i3wm](install-i3wm)
+  * [Configure i3wm](#configure-i3wm)
   * [Customize i3wm](#customize-i3wm)
+    * [](#)
   * [Uninstall i3wm](#uninstall-i3wm)
 * [Customize I3wm](#customize-i3wm)
 * [Install Bash Scripts](#install-bash-scripts)
-  * [Update](#Update)
+  * [Update](#update)
   * [Weather](#weather)
   * [Change Mac Adress](#change-mac-adress)
 * [Troubleshoot](#troubleshoot)
@@ -215,6 +217,14 @@ First we will install i3wm in the terminal by typing this command.
 sudo apt-get install i3
 ```
 Now we can log out and switch from xfce-session to I3. Normally a prompt should appear on your screen and ask you if you want to generate th config file. Press `enter` for yes. Now another prompt will ask if you want to use the win key or the alt key for every     shorcuts. Press the arrow keys to select the one that you want and press enter.
+
+### Configure i3wm
+
+Now we will configure everything and for that we have to press $mod+enter to get into the     terminal. $mod is either the    win or alt  key. It depends on what you chose earlier. 
+Once you are in the terminal, type this command to modify the I3 configuration file.     Remember it’s path, we will use it really often.
+~~~ sh
+nano ~/.config/i3/config
+~~~
 ### Customize i3wm
 
 ### Uninstall i3wm
