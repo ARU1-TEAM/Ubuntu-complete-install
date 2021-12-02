@@ -76,6 +76,7 @@ This repository is made to help you in the complete installation of Ubuntu. At t
 
 ## Grub
 Grub is a simple way to set a dualboot on your computer. It is a bootloader.
+
 ### Install Grub 
 Install os-prober and grub2 packages 
 ~~~ sh
@@ -89,7 +90,13 @@ Update grub
 ~~~ sh
 sudo update-grub
 ~~~
+
 ### Customize Grub
+You can find multiple grub Theme here. But we will use the `tela` theme in our case. To install it, just do
+~~~ sh
+git clone https://github.com/vinceliuice/grub2-themes.git
+sudo ./install.sh -r -t tela
+~~~
 
 ## Install Packages
 
