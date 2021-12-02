@@ -195,6 +195,11 @@ sudo apt autoremove
 ## Customize Terminal
 
 ### Nano Synthax Colors
+You can install Nano Synthax Highliting with only one command.
+~~~ sh
+curl https://raw.githubusercontent.com/scopatz/nanorc/master/install.sh | sh
+~~~
+And if you also want to see line numbers in nano, edit the `~/.nanorc` file and put `set linenumbers` at the very bottom. And there you go !
 
 ### PowerLevel10k
 Install these PowerLevel10k fonts 
