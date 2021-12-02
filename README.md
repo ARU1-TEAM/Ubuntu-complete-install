@@ -277,7 +277,7 @@ First install i3-gaps packages :
 sudo add-apt-repository ppa:regolith-linux/release
 sudo apt-get install i3-gaps
 ```
-To set gaps, type `inner gaps X` in `~/.config/i3/config`
+To set gaps, type `inner gaps X` in `~/.config/i3/config` and replace X by anny value that you would like, 10 is good.
 
 
 ### Uninstall i3wm
