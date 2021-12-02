@@ -307,6 +307,7 @@ locate picom.conf
 ~~~
 Once you know it's location. You have to copy and paste it in `~/.config/picom/picom`. Some directories might not be existing, in this case you will have to create them. 
 If you don't have a `picom.conf` file, you can copy one form the repositroy in `I3wm/picom/picom.conf`.
+And finally put `exec_always --no-startup-id picom --experimental-backends` in your `~/.config/i3/config` file to run picom. 
 
 ### Uninstall i3wm
 
