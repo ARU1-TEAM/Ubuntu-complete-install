@@ -25,6 +25,10 @@
 * [I3wm](#i3wm)
   * [Install i3wm](#install-i3wm)
   * [Configure i3wm](#configure-i3wm)
+    * [$Mod Key](#$mod-key)
+    * [Shortcuts](#shortcuts)
+    * [Fonts](#fonts)
+    * 
   * [Customize i3wm](#customize-i3wm)
     * [](#)
   * [Uninstall i3wm](#uninstall-i3wm)
@@ -210,6 +214,7 @@ Here you can find a [Nord Theme](https://github.com/ARU1-TEAM/Ubuntu-installatio
 ## I3wm
 
 I3 wm which is a tiling window manager. It really helps being productive and it is really customizable. But it is not a desktop environement !
+
 ### Install i3wm
 
 First we will install i3wm in the terminal by typing this command.
@@ -220,11 +225,16 @@ Now we can log out and switch from xfce-session to I3. Normally a prompt should 
 
 ### Configure i3wm
 
+#### $Mod Key
+
 Now we will configure everything and for that we have to press $mod+enter to get into the     terminal. $mod is either the    win or alt  key. It depends on what you chose earlier. 
 Once you are in the terminal, type this command to modify the I3 configuration file.     Remember it’s path, we will use it really often.
 ~~~ sh
 nano ~/.config/i3/config
 ~~~
+#### Shortcuts
+
+#### Fonts
 ### Customize i3wm
 
 ### Uninstall i3wm
