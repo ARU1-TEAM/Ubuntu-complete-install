@@ -296,7 +296,7 @@ sudo apt-get install i3-gaps
 ```
 To set gaps, type `inner gaps X` in `~/.config/i3/config` and replace X by anny value that you would like, 10 is good.
 
-#### picom
+#### Picom
 Picom is made do customize your i3wm. Install it by running this command 
 ~~~ sh 
 sudo apt-get picom
