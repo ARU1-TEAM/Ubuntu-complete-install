@@ -31,6 +31,7 @@
     * [Display](#display)
   * [Customize i3wm](#customize-i3wm)
     * [Colors](#colors)
+    * [Rofi](#rofi)
     * [Gaps](#gaps)
     * [Picom](#Picom)
     * [Polybar](#polybar)
@@ -289,6 +290,11 @@ If you don't no your screen name, just type `xrandr` in your terminal.
 
 ### Customize i3wm
 
+#### Rofi 
+Rofi is a menu to search applications. To install it, simply type
+~~~ sh
+sudo apt-get install rofi
+~~~
 #### Gaps
 First install i3-gaps packages :
 ``` sh
@@ -301,7 +307,7 @@ To set gaps, type `inner gaps X` in `~/.config/i3/config` and replace X by anny 
 Picom is made do customize your i3wm. 
 - Install it by running this command 
 ~~~ sh 
-sudo apt-get picom
+sudo apt-get install picom
 ~~~
 - Then you need to locate your `picom.conf` file by doing this
 ~~~ sh
