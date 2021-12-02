@@ -306,7 +306,7 @@ Then you need to locate your `picom.conf` file by doing this
 locate picom.conf
 ~~~
 Once you know it's location. You have to copy and paste it in `~/.config/picom/picom`. Some directories might not be existing, in this case you will have to create them. 
-If you don't have a `picom.conf` file, you can copy one form the repositroy in `config/i3/picom/picom.conf`.
+If you don't have a `picom.conf` file, you can copy one form the repositroy in `I3wm/picom/picom.conf`.
 
 ### Uninstall i3wm
 
