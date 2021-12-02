@@ -23,7 +23,7 @@
   * [PowerLevel10k](#powerlevel10k)
   * [Customize Terminal Theme](#customize-terminal-theme)
 * [I3wm](#i3wm)
-  * [Install i3wm](install-i3wm)
+  * [Install i3wm](#install-i3wm)
   * [Configure i3wm](#configure-i3wm)
   * [Customize i3wm](#customize-i3wm)
     * [](#)
