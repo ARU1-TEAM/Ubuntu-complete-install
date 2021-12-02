@@ -262,7 +262,7 @@ nano ~/.profile
 ```
 If you don't no your screen name, just type `xrandr` in your terminal.
 | Command |Result                               | Example        |
-|:-------:|:-----------------------------------:|:--------------:|
+|:-------:|-------------------------------------|:--------------:|
 | --output|Select the display                   |DP-1            |
 | --mode  |Select the resolution                |1920x1080       |
 |--rate   |Select display                       |144.00          |
