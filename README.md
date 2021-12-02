@@ -112,7 +112,7 @@ sudo add-apt-repository ppa:hsheth2/ppa
 sudo apt-get install cava
 ~~~
 
-### Xfce
+## Xfce
 ### Install Xfce
 Install Xfce using this command
 ~~~ sh
@@ -124,15 +124,15 @@ Then run this command to enable lightdm, then you might reboot as well
 sudo systemctl enable lightdm
 ~~~
 
-## Customize Xfce
+### Customize Xfce
 
-### Window Theme
+#### Window Theme
 - First [download](https://www.gnome-look.org/p/1267246/) the nord theme.
 - Create a `.themes` folder at your `~/`.
 - Put the extracted file into the `.themes`.
 - Select the theme in both `Window Manager` and `Appearance` settings like shown in the pictures.
 
-### Icon Theme
+#### Icon Theme
 Install Papirus Icon Theme.
 ~~~ sh
 sudo add-apt-repository ppa:papirus/papirus
@@ -141,20 +141,20 @@ sudo apt-get install papirus-icon-theme
 ~~~
 Go into appearance settings and select papirus-dark. 
 
-### Cursor Theme
+#### Cursor Theme
 - First [download](https://www.pling.com/p/1505683/) the Lyrax theme.
 - Create a `.icons` folder at your `~/`.
 - Put the extracted file into the `.icons`.
 - Then go into `Mouse and Touchpad settings` over the `Theme` tab and select your cursor theme. 
 
-### Fonts
+#### Fonts
 Install Cantarell font using this command.
 ~~~ sh
 sudo apt-get install fonts-cantarell
 ~~~
 Then you can select `Cantarell Regular` in both `Window Manager` and `Appearance` over the font tab.
 
-### Panel Preferences
+#### Panel Preferences
 These are the modules to boot in the `Items Tab` in your `Panel Preferences`:
 
 
@@ -204,11 +204,11 @@ Here you can find a [Nord Theme](https://github.com/ARU1-TEAM/Ubuntu-installatio
 
 ## I3wm
 
-## Install i3wm
+### Install i3wm
 
-## Customize i3wm
+### Customize i3wm
 
-## Uninstall i3wm
+### Uninstall i3wm
 
 ## Install Bash Scripts
 - First go into the repository and go in the scripts folder using `cd scripts`.
