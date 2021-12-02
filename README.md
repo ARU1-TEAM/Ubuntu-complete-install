@@ -222,7 +222,7 @@ For this Ubuntu-installation repository, we used several videos and githubs. All
 - We mainly used a Tech [Sama's video](https://www.youtube.com/watch?v=kZS84ctzii8&t=1546s) to install Ubuntu (french video). Click [here](https://www.youtube.com/channel/UCPP-NkzSqMJ9ywhJkcgrpAw) to see his channel.
 - We also used [this video](https://www.youtube.com/watch?v=rKPoK_0hYwA&t=117s) to install xfce.
 ### Github
-This is the github for [PowerLevel10k](https://github.com/romkatv/powerlevel10k). To custom your terminal.
+- This is the github for [PowerLevel10k](https://github.com/romkatv/powerlevel10k). To custom your terminal.
 
 ## Credits
 This projet wad made by Felixoux and LumaGreen. We hope you really enjoyed it and it was helpfull. Feel free to contact us if something doens't work anymore, we will fix it ! 
