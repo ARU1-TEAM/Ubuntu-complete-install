@@ -180,7 +180,7 @@ Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`
 ### Customize Terminal Theme
 - Put a file named `example.theme` in `~/.local/share/xfce4/terminal/colorschemes` folder.
 - Note that some folder might not be existing, so you might have to create them.
-- Then you will have to select your theme in the `Appearance` tab of your xfce terminal
+- Then you will have to select your theme in the `Appearance` tab of your xfce terminal.
 Here you can find a [Nord Theme](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/xfce4/Terminal/nord.theme) and here a [Dracula Theme](https://github.com/ARU1-TEAM/Ubuntu-installation/tree/main/xfce4/Terminal/dracula.theme)
 
 ## Install I3wm
