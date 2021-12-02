@@ -113,6 +113,16 @@ snap install spotify teams netflix-web vlc
 sudo apt-get install flameshot gnome-calculator libreoffice
 snap install code --classic
 ~~~
+Install latex and texstudio. 
+First, install latex using 
+~~~ sh
+sudo apt-get install texlive-latex-extra
+~~~
+Then install texstudio using
+~~~ sh
+sudo add-apt-repository ppa:sunderme/texstudio
+sudo apt-get install texstudio
+~~~
 
 ### Terminal Applications
 ~~~ sh
