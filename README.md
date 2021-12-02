@@ -11,7 +11,7 @@
   * [Side Applications](#side-applications)
   * [Terminal Applications](#terminal-applications)
 * [Xfce](#xfce)
-  * [Install Xfce](#instal-xfce) 
+  * [Install Xfce](#install-xfce) 
   * [Customize Xfce](#customize-xfce)
     * [Window Theme](#window-theme)
     * [Icon Theme](#icon-theme)
@@ -172,7 +172,7 @@ These are the modules to boot in the `Items Tab` in your `Panel Preferences`:
 |    Separator (invisible)     |
 
 ### Uninstall Xfce
-For uninstall Xfce using this command
+To uninstall Xfce using this command
 ~~~ sh
 sudo apt-get purge xfce4 xfconf xfce4-utils xfwm4 xfce4-session xfdesktop4 exo-utils xfce4-panel xfce4-terminal  thunar gdm3
 sudo apt autoremove
