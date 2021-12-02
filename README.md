@@ -310,6 +310,14 @@ locate picom.conf
 - If you don't have a `picom.conf` file, you can copy one form the repositroy in `I3wm/picom/picom.conf`.
 - And finally put `exec_always --no-startup-id picom --experimental-backends` in your `~/.config/i3/config` file to run picom. 
 
+#### Polybar
+Polybar is a status bar that helps the user feel comfortable, it is quite usefull.
+First install all the dependencies with this command 
+~~~ sh
+sudo apt-get install cmake clang python3 python3-sphinx 
+~~~
+
+
 ### Uninstall i3wm
 
 ## Install Bash Scripts
