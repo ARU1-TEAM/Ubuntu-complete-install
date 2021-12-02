@@ -95,7 +95,8 @@ sudo update-grub
 You can find multiple grub Theme here. But we will use the `tela` theme in our case. To install it, just do
 ~~~ sh
 git clone https://github.com/vinceliuice/grub2-themes.git
-sudo ./install.sh -r -t tela
+cd grub2-themes
+sudo ./install.sh -b -t tela
 ~~~
 
 ## Install Packages
