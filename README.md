@@ -98,7 +98,7 @@ git clone https://github.com/vinceliuice/grub2-themes.git
 cd grub2-themes
 sudo ./install.sh -b -t tela
 ~~~
-
+Now you can restart and you will see a beautifull grub !
 ## Install Packages
 
 ### Primary Packages
