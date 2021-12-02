@@ -218,7 +218,7 @@ Here you can find a [Nord Theme](https://github.com/ARU1-TEAM/Ubuntu-installatio
 ## I3wm
 <p align="center"><img src="/screens/I3.png" alt="I3wm"></p>
 
-I3 wm which is a tiling window manager. It really helps being productive and it is really customizable. But it is not a desktop environement !
+I3 wm is a tiling window manager. It really helps being productive and it is really customizable. But it is not a desktop environement !
 
 ### Install i3wm
 
