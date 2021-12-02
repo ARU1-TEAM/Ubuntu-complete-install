@@ -27,9 +27,12 @@
   * [Configure i3wm](#configure-i3wm)
     * [Mod Key](#mod-key)
     * [Shortcuts](#shortcuts)
-    * [Fonts](#fonts)
+    * [Display](#display)
   * [Customize i3wm](#customize-i3wm)
-    * [](#)
+    * [Colors](#colors)
+    * [Gaps](#gaps)
+    * [Backgrounds](#backgrounds)
+    * [Fonts](#fonts)
   * [Uninstall i3wm](#uninstall-i3wm)
 * [Customize I3wm](#customize-i3wm)
 * [Install Bash Scripts](#install-bash-scripts)
@@ -245,7 +248,12 @@ In case you want to change your mod key. Find the `set $mod ModX` at the beginni
 
 To configure shortcuts set `bindsym $mod+ `and then the following key you want to press. For ewample we will run the terminal by pressing `alt+enter`. So we will do `bindsym $mod+enter exec xfce4-terminal`.
 
-#### Fonts
+#### Display 
+We will use xrandr to configure your displays settings. First we will install xrandr with this command :
+
+``` sh
+sudo apt-get install x11-xserver-utils
+```
 
 ### Customize i3wm
 
