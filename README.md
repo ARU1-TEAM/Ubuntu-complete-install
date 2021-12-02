@@ -35,7 +35,6 @@
     * [Backgrounds](#backgrounds)
     * [Fonts](#fonts)
   * [Uninstall i3wm](#uninstall-i3wm)
-* [Customize I3wm](#customize-i3wm)
 * [Install Bash Scripts](#install-bash-scripts)
   * [Update](#update)
   * [Weather](#weather)
@@ -296,6 +295,7 @@ sudo apt-get install i3-gaps
 ```
 To set gaps, type `inner gaps X` in `~/.config/i3/config` and replace X by anny value that you would like, 10 is good.
 
+### Customize i3wm
 
 ### Uninstall i3wm
 
