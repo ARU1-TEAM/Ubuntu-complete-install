@@ -331,7 +331,8 @@ sudo ./build.sh
 ~~~
 - Type `Y` for everyprompt.
 - Then put you polybar config in `~/.config/polybar/` if the polybar directory doesn't exist ,create it. You can take the config in the repository at `i3wm/polybar/config`.
-- And lastly you have to put `exec_always --no-startup-id "killall polybar; polybar -r X"` in `~/.config/i3/config` to run polybar. Don't forget to change X to the name you gave your bar in `~/.config/polybar/config`. Enjoy !
+- And lastly you have to put `exec_always --no-startup-id "killall polybar; polybar -r X"` in `~/.config/i3/config` to run polybar. Don't forget to change X to the name you gave your bar in `~/.config/polybar/config`. 
+- You might have to reinstall i3-gaps because of polybar.
 
 
 
