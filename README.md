@@ -1,7 +1,4 @@
 ## Table of Contents
-[home](/home#here)
-[home](/home.md#here)
-[home](/home?id=here)
 
 * [Introduction](#introduction)
 * [Install Ubuntu](#install-ubuntu)
