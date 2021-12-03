@@ -41,6 +41,7 @@
     * [Install Rofi](#install-rofi)
     * [Customize Rofi](#customize-rofi)
   * [Uninstall i3wm](#uninstall-i3wm)
+* [Log In Screen Theme](#log-in-screen-theme)
 * [Install Bash Scripts](#install-bash-scripts)
   * [Update](#update)
   * [Weather](#weather)
@@ -400,6 +401,19 @@ rofi.hide-scrollbar:                 true
 
 ~~~ sh
 xrdb .Xressources
+~~~
+### Log In Screen Theme
+If you want to install a log in screen theme, begin with theses commands to install `lightdm-webkit2-greeter`
+~~~sh
+echo 'deb http://download.opensuse.org/repositories/home:/antergos/Debian_9.0/ /' | sudo tee /etc/apt/sources.list.d/home:antergos.list
+curl -fsSL https://download.opensuse.org/repositories/home:antergos/Debian_9.0/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_antergos.gpg > /dev/null
+sudo apt update
+sudo apt install lightdm-webkit2-greeter
+~~~
+Then put those two lines in `/etc/lightdm/lightdm.conf`.
+~~~sh
+[SeatDefaults]
+greeter-session=lightdm-webkit2-greeter
 ~~~
 ### Uninstall i3wm
 
