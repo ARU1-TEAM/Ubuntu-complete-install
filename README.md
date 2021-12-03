@@ -425,6 +425,8 @@ sudo os-prober
 sudo update-grub
 ~~~
 It will normally detect your new OS. So now you can reboot and select what OS you want to use.
+#### Boot issue
+In case your boot is infinite/cannot boot on Ubuntu, you can access the terminal by going in `other options for Ubuntu` in the grub section at startup.
 ## Sources
 For this Ubuntu-installation repository, we used several videos and githubs. All of them are listed down here in case you need them.
 ### Youtube
