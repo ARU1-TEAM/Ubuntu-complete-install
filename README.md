@@ -38,6 +38,7 @@
     * [Picom](#Picom)
     * [Polybar](#polybar)
     * [Window Icon Mouse Themes](#window-icon-mouse-themes)
+    * [Wallpaper](#wallpaper)
   * [Rofi](#rofi)
     * [Install Rofi](#install-rofi)
     * [Customize Rofi](#customize-rofi)
@@ -361,6 +362,16 @@ There is an application to change all the thunar, icon, mouse appearance. It is 
 sudo apt-get install lxappearance
 ~~~
 Now you can launch `lxappearance` and change all the themes. If you don't have any, go into the xfce customization section above in the repository.
+
+#### Wallpaper
+If you want to add custom wallpaper to your i3, simply install nitrogen like this
+~~~sh
+sudo apt-get install nitrogen
+~~~
+And now do that to save the changes so that i3 reload nitrogen on startup
+~~~sh
+exec_always --no-startup-id nitrogen --restore &
+~~~
 
 ### Rofi 
 Rofi is a menu to search applications. 
