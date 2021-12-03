@@ -37,6 +37,7 @@
     * [Gaps](#gaps)
     * [Picom](#Picom)
     * [Polybar](#polybar)
+    * [Window Icon Mouse Themes](#window-icon-mouse-themes)
   * [Rofi](#rofi)
     * [Install Rofi](#install-rofi)
     * [Customize Rofi](#customize-rofi)
@@ -342,6 +343,12 @@ sudo ./build.sh
 - Then put you polybar config in `~/.config/polybar/` if the polybar directory doesn't exist ,create it. You can take the config in the repository at `i3wm/polybar/config`.
 - And lastly you have to put `exec_always --no-startup-id "killall polybar; polybar -r X"` in `~/.config/i3/config` to run polybar. Don't forget to change X to the name you gave your bar in `~/.config/polybar/config`. 
 - Note that you might have to reinstall i3-gaps because of polybar.
+#### Window Icon Mouse Themes
+There is an application to change all the thunar, icon, mouse appearance. It is lxappearance. To install it, just type
+~~~ sh
+sudo apt-get install lxappearance
+~~~
+Now you can launch `lxappearance` and change all the themes. If you don't have any, go into the xfce customization section above in the repository.
 
 ### Rofi 
 Rofi is a menu to search applications. 
