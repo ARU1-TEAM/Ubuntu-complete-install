@@ -331,7 +331,7 @@ locate picom.conf
 Polybar is a status bar that helps the user feel comfortable, it is quite usefull.
 - First install all the dependencies with this command 
 ~~~ sh
-sudo apt install build-essential git cmake cmake-data pkg-config python3-sphinx python3-packaging libuv1-dev libcairo2-dev libxcb1-dev libxcb-util0-dev libxcb-randr0-dev libxcb-composite0-dev python3-xcbgen xcb-proto libxcb-image0-dev libxcb-ewmh-dev libxcb-icccm4-dev libxcb-xkb-dev libxcb-xrm-dev libxcb-cursor-dev libasound2-dev libpulse-dev i3-wm libjsoncpp-dev libmpdclient-dev libcurl4-openssl-dev libnl-genl-3-dev
+sudo apt install build-essential git cmake cmake-data pkg-config python3-sphinx python3-packaging libuv1-dev libcairo2-dev libxcb1-dev libxcb-util0-dev libxcb-randr0-dev libxcb-composite0-dev python3-xcbgen xcb-proto libxcb-image0-dev libxcb-ewmh-dev libxcb-icccm4-dev libxcb-xkb-dev libxcb-xrm-dev libxcb-cursor-dev libasound2-dev libpulse-dev libjsoncpp-dev libmpdclient-dev libcurl4-openssl-dev libnl-genl-3-dev
 ~~~
 - Then git clone the polybar repository with 
 ~~~ sh
@@ -342,7 +342,7 @@ sudo ./build.sh
 - Type `Y` for everyprompt.
 - Then put you polybar config in `~/.config/polybar/` if the polybar directory doesn't exist ,create it. You can take the config in the repository at `i3wm/polybar/config`.
 - And lastly you have to put `exec_always --no-startup-id "killall polybar; polybar -r X"` in `~/.config/i3/config` to run polybar. Don't forget to change X to the name you gave your bar in `~/.config/polybar/config`. 
-- You might have to reinstall i3-gaps because of polybar.
+- Note that you might have to reinstall i3-gaps because of polybar.
 
 ### Rofi 
 Rofi is a menu to search applications. 
