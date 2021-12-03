@@ -370,7 +370,7 @@ sudo apt-get install nitrogen
 ~~~
 And now do that to save the changes so that i3 reload nitrogen on startup
 ~~~sh
-exec_always --no-startup-id nitrogen --restore &
+echo exec_always --no-startup-id nitrogen --restore & >> ~/.config/i3/config
 ~~~
 
 ### Rofi 
