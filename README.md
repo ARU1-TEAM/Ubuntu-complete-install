@@ -37,7 +37,6 @@
     * [Gaps](#gaps)
     * [Picom](#Picom)
     * [Polybar](#polybar)
-    * [Fonts](#fonts)
   * [Rofi](#rofi)
     * [Install Rofi](#install-rofi)
     * [Customize Rofi](#customize-rofi)
