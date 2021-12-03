@@ -32,7 +32,6 @@
     * [Shortcuts](#shortcuts)
     * [Display](#display)
   * [Customize i3wm](#customize-i3wm)
-    * [Rofi](#rofi)
     * [Gaps](#gaps)
     * [Picom](#Picom)
     * [Polybar](#polybar)
