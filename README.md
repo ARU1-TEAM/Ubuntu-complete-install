@@ -333,7 +333,7 @@ sudo apt-get install picom
 locate picom.conf
 ~~~
 - Once you know it's location. You have to copy and paste it in `~/.config/picom/`. Some directories might not be existing, in this case you will have to create them. 
-- If you don't have a `picom.conf` file, you can copy one form the repositroy in `I3wm/picom/picom.conf`.
+- If you don't have a `picom.conf` file, you can copy one form the repository in `I3wm/picom/picom.conf`.
 - And finally do this command so that picom always runs.
 
 ~~~sh
