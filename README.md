@@ -337,7 +337,7 @@ echo exec_always --no-startup-id picom --experimental-backends >> ~/.config/i3/c
 ~~~
 
 #### Polybar
-Polybar is a status bar that helps the user feel comfortable, it is quite usefull.
+Polybar is a **status bar** that helps the user feel comfortable, it is quite usefull.
 - First install all the dependencies with this command 
 ~~~ sh
 sudo apt-get install build-essential git cmake cmake-data pkg-config python3-sphinx python3-packaging libuv1-dev libcairo2-dev libxcb1-dev libxcb-util0-dev libxcb-randr0-dev libxcb-composite0-dev python3-xcbgen xcb-proto libxcb-image0-dev libxcb-ewmh-dev libxcb-icccm4-dev libxcb-xkb-dev libxcb-xrm-dev libxcb-cursor-dev libasound2-dev libpulse-dev libjsoncpp-dev libmpdclient-dev libcurl4-openssl-dev libnl-genl-3-dev
@@ -357,18 +357,18 @@ echo exec_always --no-startup-id "killall polybar; polybar -r X" >> ~/.config/i3
 ~~~
 - ! Note that you might have to **reinstall** i3-gaps because of polybar.
 #### Window Icon Mouse Themes
-There is an application to change all the thunar, icon, mouse appearance. It is lxappearance. To install it, just type
+There is an application to **manage** all the user themes. To install it, just type this.
 ~~~ sh
 sudo apt-get install lxappearance
 ~~~
 Now you can launch `lxappearance` and change all the themes. If you don't have any, go into the xfce customization section above in the repository.
 
 #### Wallpaper
-If you want to add custom wallpaper to your i3, simply install nitrogen like this
+If you want to add custom wallpaper to your i3, simply install nitrogen like this.
 ~~~sh
 sudo apt-get install nitrogen
 ~~~
-And now do that to save the changes so that i3 reload nitrogen on startup
+And now do that to save the changes so that i3 reload nitrogen on startup.
 ~~~sh
 echo exec_always --no-startup-id nitrogen --restore & >> ~/.config/i3/config
 ~~~
