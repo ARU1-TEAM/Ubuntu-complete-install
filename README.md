@@ -164,6 +164,10 @@ Then run this command to enable lightdm, then you might reboot as well
 ~~~ sh
 sudo systemctl enable lightdm
 ~~~
+If you want to reconfigure lightdm in case of problem, just do
+~~~sh
+sudo dpkg reconfigure lightdm
+~~~
 
 ### Customize Xfce
 
