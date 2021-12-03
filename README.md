@@ -415,6 +415,24 @@ Then put those two lines in `/etc/lightdm/lightdm.conf`.
 [SeatDefaults]
 greeter-session=lightdm-webkit2-greeter
 ~~~
+Then install a theme, in our example we will install the Aether theme. so do this 
+~~~sh
+git clone https://github.com/NoiSek/Aether.git 
+~~~
+And now copy the folder into `/usr/share/lightdm/lightdm-webkit/themes/` by doing 
+~~~sh
+sudo cp --recursive Aether /usr/share/lightdm-webkit/themes/Aether
+~~~
+And finally to set the Aether theme in your greeter, we will do theses.
+~~~sh
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+~~~
+And then edit the line where there is `webkit-theme` and put this 
+~~~
+webkit-theme = lightdm-webkit-theme-aether
+~~~
+
+
 ### Uninstall i3wm
 
 ## Install Bash Scripts
