@@ -166,7 +166,7 @@ sudo systemctl enable lightdm
 ~~~
 If you want to reconfigure lightdm in case of problem, just do
 ~~~sh
-sudo dpkg reconfigure lightdm
+sudo dpkg-reconfigure lightdm
 ~~~
 
 ### Customize Xfce
