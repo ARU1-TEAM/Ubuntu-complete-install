@@ -201,15 +201,15 @@ These are the modules to boot in the `Items Tab` in your `Panel Preferences`:
 |              Items           |           
 |:----------------------------:|
 |       Whisker Menu           |
-|     Separator (invisible)    |  
+|     Separator (transparent)  |  
 |        Window Buttons        |
-| Separator (expend invisible) |
+|Separator (expend transparent)|
 |        Workspace Switcher    |
 |     Notification Area        |
 |       PulseAudio Plugin      |
-|    Separator (invisible)     |
+|    Separator (transparent)   |
 |             Clock            |
-|    Separator (invisible)     |
+|    Separator (transparent)   |
 
 ### Uninstall Xfce
 To uninstall Xfce using this command
