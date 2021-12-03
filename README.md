@@ -142,8 +142,8 @@ sudo apt-get install texstudio
 
 ### Terminal Applications
 ~~~ sh
-sudo apt-get install htop ranger neofetch cmatrix nano vim hollywood sl figlet
-sudo add-apt-repository ppa:hsheth2/ppa
+sudo apt-get install htop ranger neofetch cmatrix nano vim hollywood sl figlet;
+sudo add-apt-repository ppa:hsheth2/ppa;
 sudo apt-get install cava
 ~~~
 
