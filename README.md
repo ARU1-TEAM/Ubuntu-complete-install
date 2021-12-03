@@ -78,7 +78,7 @@ This repository is made to help you in the complete installation of Ubuntu. At t
  - Once the installation is finished, restart your computer.
 
 ## Grub
-Grub is a simple way to set a dualboot on your computer. It is a bootloader.
+Grub is a simple way to set a dualboot on your computer. It is a **bootloader**.
 
 ### Install Grub 
 Install os-prober and grub2 packages 
@@ -117,13 +117,13 @@ Install oh-my-zsh
 ~~~
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ~~~
-If you need nvidia, install these
+For Nvidia users, install these
 ~~~ sh
 sudo apt-get install nvidia-settings
 ~~~
 
 ### Side Applications
-Install the user graphical applications 
+Install the must have applications 
 ~~~ sh
 snap install spotify teams netflix-web vlc discord
 sudo apt-get install flameshot gnome-calculator libreoffice
@@ -349,8 +349,12 @@ sudo ./build.sh
 ~~~
 - Type `Y` for everyprompt.
 - Then put you polybar config in `~/.config/polybar/` if the polybar directory doesn't exist ,create it. You can take the config in the repository at `i3wm/polybar/config`.
-- And lastly you have to put `exec_always --no-startup-id "killall polybar; polybar -r X"` in `~/.config/i3/config` to run polybar. Don't forget to change X to the name you gave your bar in `~/.config/polybar/config`. 
-- Note that you might have to reinstall i3-gaps because of polybar.
+- And lastly type this command to run polybar. Don't forget to change X to the name you gave your bar in `~/.config/polybar/config`. 
+
+~~~sh
+echo exec_always --no-startup-id "killall polybar; polybar -r X" >> ~/.config/i3/config
+~~~
+- ! Note that you might have to **reinstall** i3-gaps because of polybar.
 #### Window Icon Mouse Themes
 There is an application to change all the thunar, icon, mouse appearance. It is lxappearance. To install it, just type
 ~~~ sh
@@ -421,9 +425,9 @@ You can even upgrade your Ubuntu installion with.
 sudo apt-get upgrade
 ~~~
 ### PowerLevel10k Issue
-If your powerlevel10k fonts doesn't match. Please check if you already put the proper fonts in your terminal preferences. In this case, you have to put the `MesloLGS NF Regular`
+If your powerlevel10k **fonts** doesn't match. Please check if you already put the proper fonts in your **terminal preferences**. In this case, you have to put the `MesloLGS NF Regular`
 ### LightDm
-In case your xxfce is not the vanilla one. You can uninstall gdm3 (it is more likely that you installed it).
+In case your xxfce is not the vanilla one. You can uninstall **gdm3** (it is more likely that you installed it).
 ~~~ sh
 sudo apt-get remove gdm3
 ~~~
@@ -452,5 +456,5 @@ For this Ubuntu-installation repository, we used several videos and githubs. All
 ### Nord theme 
 You can also check the [nord theme palette](https://www.nordtheme.com/) which inspired us to do this theme. 
 ## Credits
-This projet was made by LumaGreen and Felixoux. We hope you really enjoyed it and it was helpful. Feel free to contact us if something doens't work anymore, we will fix it ! 
+This projet was made by *LumaGreen* and *Felixoux*. We hope you really enjoyed it and it was helpful. Feel free to contact us if something doens't work anymore, we will fix it ! 
 Thank you for sharing 😊
