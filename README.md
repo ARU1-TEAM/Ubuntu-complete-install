@@ -402,6 +402,11 @@ rofi.hide-scrollbar:                 true
 ~~~ sh
 xrdb .Xressources
 ~~~
+- Don't forget to put this command in the `~/.config/i3/config` file 
+
+~~~sh
+exec_always --no-startup-id xrdb .Xressources
+~~~
 ### Log In Screen Theme
 If you want to install a log in screen theme, begin with theses commands to install `lightdm-webkit2-greeter`
 ~~~sh
