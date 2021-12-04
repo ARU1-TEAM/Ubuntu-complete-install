@@ -126,7 +126,7 @@ sudo apt-get install nvidia-settings
 Install the must have applications 
 ~~~ sh
 snap install spotify teams netflix-web vlc discord
-sudo apt-get install flameshot gnome-calculator libreoffice
+sudo apt-get install flameshot gnome-calculator libreoffice virtualbox
 snap install code --classic
 ~~~
 Install LaTeX and TeXstudio. 
