@@ -81,7 +81,7 @@ This repository is made to help you in the complete installation of Ubuntu. At t
  - Once the installation is finished, restart your computer.
 
 ## Grub
-Grub is a simple way to set a dualboot on your computer. It is a **bootloader**.
+> Grub is a simple way to set a dualboot on your computer. It is a **bootloader**.
 
 ### Install Grub 
 Install os-prober and grub2 packages 
@@ -151,10 +151,9 @@ sudo apt-get install cava
 ~~~
 
 ## Xfce
-
 <p align="center"><img src="/screens/xfce-banner.png" alt="ubuntu"></p>
 
-Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
+> Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
 
 ### Install Xfce
 Install Xfce using this command
@@ -262,7 +261,7 @@ Here you can find a [Nord Theme](https://github.com/ARU1-TEAM/Ubuntu-installatio
 ## I3wm
 <p align="center"><img src="/screens/I3.png" alt="I3wm"></p>
 
-I3 wm is a tiling window manager. It really helps being productive and it is really customizable. But it is not a desktop environement !
+> I3 wm is a tiling window manager. It really helps being productive and it is really customizable. But it is not a **desktop environement** !
 
 ### Install i3wm
 
@@ -325,7 +324,7 @@ sudo apt-get install i3-gaps
 To set gaps, type `inner gaps X` in `~/.config/i3/config` and replace X by anny value that you would like, 10 is good.
 
 #### Picom
-Picom is made do customize your i3wm. 
+> Picom is made do customize your i3wm. 
 - Install it by running this command 
 ~~~ sh 
 sudo apt-get install picom
@@ -343,7 +342,7 @@ echo exec_always --no-startup-id picom --experimental-backends >> ~/.config/i3/c
 ~~~
 
 #### Polybar
-Polybar is a **status bar** that helps the user feel comfortable, it is quite usefull.
+> Polybar is a **status bar** that helps the user feel comfortable, it is quite usefull.
 - First install all the dependencies with this command 
 ~~~ sh
 sudo apt-get install build-essential git cmake cmake-data pkg-config python3-sphinx python3-packaging libuv1-dev libcairo2-dev libxcb1-dev libxcb-util0-dev libxcb-randr0-dev libxcb-composite0-dev python3-xcbgen xcb-proto libxcb-image0-dev libxcb-ewmh-dev libxcb-icccm4-dev libxcb-xkb-dev libxcb-xrm-dev libxcb-cursor-dev libasound2-dev libpulse-dev libjsoncpp-dev libmpdclient-dev libcurl4-openssl-dev libnl-genl-3-dev
@@ -361,7 +360,7 @@ sudo ./build.sh
 ~~~sh
 echo exec_always --no-startup-id "killall polybar; polybar -r X" >> ~/.config/i3/config
 ~~~
-- ! Note that you might have to **reinstall** i3-gaps because of polybar.
+> ! Note that you might have to **reinstall** i3-gaps because of polybar.
 #### Window Icon Mouse Themes
 There is an application to **manage** all the user themes. To install it, just type this.
 ~~~ sh
@@ -380,7 +379,7 @@ echo exec_always --no-startup-id nitrogen --restore & >> ~/.config/i3/config
 ~~~
 
 ### Rofi 
-Rofi is a menu to search applications. 
+> Rofi is a menu to search applications. 
 #### Install Rofi
 To install it, simply type
 ~~~ sh
@@ -509,5 +508,5 @@ For this Ubuntu-installation repository, we used several videos and githubs. All
 ### Nord theme 
 You can also check the [nord theme palette](https://www.nordtheme.com/) which inspired us to do this theme. 
 ## Credits
-This projet was made by *LumaGreen* and *Felixoux*. We hope you really enjoyed it and it was helpful. Feel free to contact us if something doens't work anymore, we will fix it ! 
+> This projet was made by *LumaGreen* and *Felixoux*. We hope you really enjoyed it and it was helpful. Feel free to contact us if something doens't work anymore, we will fix it ! 
 Thank you for sharing 😊
