@@ -137,11 +137,10 @@ First, install LaTeX using
 ~~~ sh
 sudo apt-get install texlive-latex-extra
 ~~~
-or
+if you want the full version :
 ~~~ sh
 sudo apt-get install texlive-full
 ~~~
-if you want the full version.
 Then install TeXstudio using
 ~~~ sh
 sudo add-apt-repository ppa:sunderme/texstudio
