@@ -140,7 +140,7 @@ sudo apt-get install texlive-latex-extra
 or
 ~~~ sh
 sudo apt-get install texlive-full
-```
+~~~
 if you want the full version.
 Then install TeXstudio using
 ~~~ sh
