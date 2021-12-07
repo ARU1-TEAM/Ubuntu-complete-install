@@ -114,7 +114,7 @@ sudo apt-get update
 ~~~
 Install all the needed packages
 ~~~ sh
-sudo apt-get install curl git zsh wget nano vim zip gparted build-essential locate snap xarchiver gdebi
+sudo apt-get install curl git zsh wget nano vim zip gparted build-essential locate snap xarchiver gdebi build-essential
 ~~~
 Install oh-my-zsh
 ~~~
